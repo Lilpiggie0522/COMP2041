@@ -1,0 +1,5 @@
+string="Hello"
+
+string="$string World"
+
+echo $string

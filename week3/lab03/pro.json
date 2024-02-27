@@ -1,0 +1,372 @@
+[
+  {
+    "title": "Advanced Algorithms",
+    "code": "COMP4121",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Theory of Computation",
+    "code": "COMP4141",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Advanced Topics in Software Verification",
+    "code": "COMP4161",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Knowledge Representation and Reasoning",
+    "code": "COMP4418",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "User Interface Design and Construction",
+    "code": "COMP4511",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Web Front-End Programming",
+    "code": "COMP6080",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Internet of Things Service Design and Engineering",
+    "code": "COMP6324",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Security Engineering and Cyber Security",
+    "code": "COMP6441",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Web Application Security and Testing",
+    "code": "COMP6443",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Digital Forensics",
+    "code": "COMP6445",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "System and Software Security Assessment",
+    "code": "COMP6447",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Security Engineering Masterclass",
+    "code": "COMP6448",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Security Engineering Professional Practice",
+    "code": "COMP6449",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Cryptocurrency and Distributed Ledger Technologies",
+    "code": "COMP6451",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Software Architecture for Blockchain Applications",
+    "code": "COMP6452",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Information Retrieval and Web Search",
+    "code": "COMP6714",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "(In-)Formal Methods: The Lost Art",
+    "code": "COMP6721",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Internet of Things Experimental Design Studio",
+    "code": "COMP6733",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Algorithms for Intractable Problems",
+    "code": "COMP6741",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Modelling Concurrent Systems",
+    "code": "COMP6752",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Advanced C++ Programming",
+    "code": "COMP6771",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Extended Security Engineering and Cyber Security",
+    "code": "COMP6841",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Extended Web Application Security and Testing",
+    "code": "COMP6843",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Extended Digital Forensics and Incident Response",
+    "code": "COMP6845",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Foundations of Computer Science",
+    "code": "COMP9020",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Principles of Programming",
+    "code": "COMP9021",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "code": "COMP9024",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Microprocessors and Interfacing",
+    "code": "COMP9032",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Software Construction: Techniques and Tools",
+    "code": "COMP9044",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Design and Analysis of Algorithms",
+    "code": "COMP9101",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Programming Languages and Compilers",
+    "code": "COMP9102",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Algorithmic Verification",
+    "code": "COMP9153",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Foundations of Concurrency",
+    "code": "COMP9154",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Concepts of Programming Languages",
+    "code": "COMP9164",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Operating Systems",
+    "code": "COMP9201",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Computer Architecture",
+    "code": "COMP9211",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Digital Circuits and Systems",
+    "code": "COMP9222",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Advanced Operating Systems",
+    "code": "COMP9242",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Distributed Systems",
+    "code": "COMP9243",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Extended Operating Systems",
+    "code": "COMP9283",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Cyber Security Project",
+    "code": "COMP9301",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Cyber Security Project B",
+    "code": "COMP9302",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Database Systems",
+    "code": "COMP9311",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Data Analytics for Graphs",
+    "code": "COMP9312",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Big Data Management",
+    "code": "COMP9313",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Database Systems Implementation",
+    "code": "COMP9315",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Data Warehousing and Data Mining",
+    "code": "COMP9318",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Web Data Compression and Search",
+    "code": "COMP9319",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Data Services Engineering",
+    "code": "COMP9321",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Software Service Design and Engineering",
+    "code": "COMP9322",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Software as a Service Project",
+    "code": "COMP9323",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Computer Networks and Applications",
+    "code": "COMP9331",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Network Routing and Switching",
+    "code": "COMP9332",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Capacity Planning of Computer Systems and Networks",
+    "code": "COMP9334",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Mobile Data Networking",
+    "code": "COMP9336",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Securing Fixed and Wireless Networks",
+    "code": "COMP9337",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Artificial Intelligence",
+    "code": "COMP9414",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Computer Graphics",
+    "code": "COMP9415",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Machine Learning and Data Mining",
+    "code": "COMP9417",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Advanced Topics in Statistical Machine Learning",
+    "code": "COMP9418",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Computational Methods for Robotics",
+    "code": "COMP9433",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Robotic Software Architecture",
+    "code": "COMP9434",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Neural Networks and Deep Learning",
+    "code": "COMP9444",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Security Engineering Workshop",
+    "code": "COMP9447",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Applied Artificial Intelligence",
+    "code": "COMP9491",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Human Computer Interaction",
+    "code": "COMP9511",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Computer Vision",
+    "code": "COMP9517",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Extended Design & Analysis of Algorithms",
+    "code": "COMP9801",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Extended Artificial Intelligence",
+    "code": "COMP9814",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Extended Neural Networks and Deep Learning",
+    "code": "COMP9844",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Information Technology Project",
+    "code": "COMP9900",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Research Project A",
+    "code": "COMP9991",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Research Project B",
+    "code": "COMP9992",
+    "level": "Postgraduate"
+  },
+  {
+    "title": "Research Project C",
+    "code": "COMP9993",
+    "level": "Postgraduate"
+  }
+]

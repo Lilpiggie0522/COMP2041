@@ -1,0 +1,269 @@
+[
+  {
+    "title": "Mineral Resources Engineering",
+    "code": "MINE1010",
+    "year": "2023"
+  },
+  {
+    "title": "Minerals Processing",
+    "code": "MINE2820",
+    "year": "2023"
+  },
+  {
+    "title": "Resource Estimation",
+    "code": "MINE3220",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Planning",
+    "code": "MINE3230",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Geomechanics",
+    "code": "MINE3310",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Systems",
+    "code": "MINE3430",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Ventilation",
+    "code": "MINE3510",
+    "year": "2023"
+  },
+  {
+    "title": "Rock Breakage",
+    "code": "MINE3630",
+    "year": "2023"
+  },
+  {
+    "title": "Socio-Environmental Aspects of Mining",
+    "code": "MINE3910",
+    "year": "2023"
+  },
+  {
+    "title": "Hardrock Mine Design and Feasibility Project",
+    "code": "MINE4250",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Geotechnical Engineering",
+    "code": "MINE4310",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Research Project II",
+    "code": "MINE4450",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Management",
+    "code": "MINE4710",
+    "year": "2023"
+  },
+  {
+    "title": "Mining in a Global Environment",
+    "code": "MINE4910",
+    "year": "2023"
+  },
+  {
+    "title": "Technology Management and Innovation in Mining",
+    "code": "MINE8130",
+    "year": "2023"
+  },
+  {
+    "title": "Sustainable Tailings Management",
+    "code": "MINE8950",
+    "year": "2023"
+  }
+]
+[
+  {
+    "title": "Fundamentals of Rock Behaviour for Underground Mining",
+    "code": "MINE5010",
+    "year": "2023"
+  },
+  {
+    "title": "Geotechnical Assessment for Underground Mining",
+    "code": "MINE5020",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Excavations in Rock",
+    "code": "MINE5030",
+    "year": "2023"
+  },
+  {
+    "title": "Coal Mining Methods, Mine Planning and Applied Geomechanics",
+    "code": "MINE5040",
+    "year": "2023"
+  },
+  {
+    "title": "Ground Control Principles and Practice in Underground Coal Mining",
+    "code": "MINE5050",
+    "year": "2023"
+  },
+  {
+    "title": "Operational Geotechnical Management (Underground Coal Mining)",
+    "code": "MINE5060",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals of Mining Engineering",
+    "code": "MINE8101",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Processes, Systems and Analysis",
+    "code": "MINE8115",
+    "year": "2023"
+  },
+  {
+    "title": "Hazard Identification, Risk and Safety Management in Mining",
+    "code": "MINE8120",
+    "year": "2023"
+  },
+  {
+    "title": "Technology Management and Innovation in Mining",
+    "code": "MINE8130",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Geomechanics",
+    "code": "MINE8140",
+    "year": "2023"
+  },
+  {
+    "title": "Management Systems - Projects, Processes, Contracts, Contractors",
+    "code": "MINE8210",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Industry Research Project 1",
+    "code": "MINE8440",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Industry Research Project 2",
+    "code": "MINE8445",
+    "year": "2023"
+  },
+  {
+    "title": "Geotechnical Data Collection and Analysis",
+    "code": "MINE8680",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Geotechnical Project",
+    "code": "MINE8690",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Slope Stability",
+    "code": "MINE8710",
+    "year": "2023"
+  },
+  {
+    "title": "Numerical Methods in Mine Geomechanics",
+    "code": "MINE8720",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Geology and Geophysics for Mining Operations",
+    "code": "MINE8760",
+    "year": "2023"
+  },
+  {
+    "title": "Environmental Management for the Mining Industry",
+    "code": "MINE8780",
+    "year": "2023"
+  },
+  {
+    "title": "Mineral Processing",
+    "code": "MINE8820",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Design and Feasibility",
+    "code": "MINE8850",
+    "year": "2023"
+  },
+  {
+    "title": "Drilling, Blasting and Machine Excavation",
+    "code": "MINE8860",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Water and Waste Management",
+    "code": "MINE8910",
+    "year": "2023"
+  },
+  {
+    "title": "Uranium mining fundamentals",
+    "code": "MINE8930",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Slope Monitoring Technologies",
+    "code": "MINE8940",
+    "year": "2023"
+  },
+  {
+    "title": "Sustainable Tailings Management",
+    "code": "MINE8950",
+    "year": "2023"
+  },
+  {
+    "title": "Mining Design Practice",
+    "code": "MINE9100",
+    "year": "2023"
+  },
+  {
+    "title": "Ventilation and Mine Services",
+    "code": "MINE9901",
+    "year": "2023"
+  },
+  {
+    "title": "Environmental Contaminants",
+    "code": "MINE9902",
+    "year": "2023"
+  },
+  {
+    "title": "Heat in Underground Mines",
+    "code": "MINE9903",
+    "year": "2023"
+  },
+  {
+    "title": "Ventilation System Management",
+    "code": "MINE9904",
+    "year": "2023"
+  },
+  {
+    "title": "Coal Mine Hazards and Control",
+    "code": "MINE9905",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Ventilation",
+    "code": "MINE9910",
+    "year": "2023"
+  },
+  {
+    "title": "Spontaneous Combustion and Reactive Ground",
+    "code": "MINE9920",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Ventilation Legislation",
+    "code": "MINE9921",
+    "year": "2023"
+  },
+  {
+    "title": "Mine Ventilation Practices",
+    "code": "MINE9922",
+    "year": "2023"
+  }
+]
