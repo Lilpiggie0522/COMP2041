@@ -1,5 +1,1430 @@
 [
   {
+    "title": "Product and Manufacturing Design",
+    "code": "MANF3100",
+    "year": "2023"
+  },
+  {
+    "title": "Process Technology and Automation",
+    "code": "MANF3510",
+    "year": "2023"
+  },
+  {
+    "title": "Design and Analysis of Product-Process Systems",
+    "code": "MANF4100",
+    "year": "2023"
+  },
+  {
+    "title": "Design of Intelligent Manufacturing Systems",
+    "code": "MANF4150",
+    "year": "2023"
+  },
+  {
+    "title": "Reliability and Maintenance Engineering",
+    "code": "MANF4430",
+    "year": "2023"
+  },
+  {
+    "title": "Process Modelling and Simulation",
+    "code": "MANF4611",
+    "year": "2023"
+  },
+  {
+    "title": "Strategic Manufacturing Management",
+    "code": "MANF6860",
+    "year": "2023"
+  },
+  {
+    "title": "Robotic 3D Printing",
+    "code": "MANF9550",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Fundamentals",
+    "code": "MARK2012",
+    "year": "2023"
+  },
+  {
+    "title": "Consumer Behaviour",
+    "code": "MARK2051",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Research",
+    "code": "MARK2052",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Communications and Promotions Management",
+    "code": "MARK2053",
+    "year": "2023"
+  },
+  {
+    "title": "Service Marketing and Management",
+    "code": "MARK2055",
+    "year": "2023"
+  },
+  {
+    "title": "Event Management and Marketing",
+    "code": "MARK2060",
+    "year": "2023"
+  },
+  {
+    "title": "International and Global Marketing",
+    "code": "MARK2071",
+    "year": "2023"
+  },
+  {
+    "title": "Consumer Centric Innovation",
+    "code": "MARK2085",
+    "year": "2023"
+  },
+  {
+    "title": "Industry Placement 1",
+    "code": "MARK2101",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Analytics and Big Data",
+    "code": "MARK3054",
+    "year": "2023"
+  },
+  {
+    "title": "Distribution Strategy and Retail Channels",
+    "code": "MARK3081",
+    "year": "2023"
+  },
+  {
+    "title": "Strategic Marketing",
+    "code": "MARK3082",
+    "year": "2023"
+  },
+  {
+    "title": "Digital Marketing and Web Analytics",
+    "code": "MARK3085",
+    "year": "2023"
+  },
+  {
+    "title": "Customer Analytics",
+    "code": "MARK3087",
+    "year": "2023"
+  },
+  {
+    "title": "Product Analytics",
+    "code": "MARK3088",
+    "year": "2023"
+  },
+  {
+    "title": "Pricing Analytics",
+    "code": "MARK3089",
+    "year": "2023"
+  },
+  {
+    "title": "New Product and New Service Development",
+    "code": "MARK3091",
+    "year": "2023"
+  },
+  {
+    "title": "Brand Management",
+    "code": "MARK3092",
+    "year": "2023"
+  },
+  {
+    "title": "Industry Placement 2",
+    "code": "MARK3202",
+    "year": "2023"
+  },
+  {
+    "title": "Industry Placement 3",
+    "code": "MARK3303",
+    "year": "2023"
+  },
+  {
+    "title": "Business Research Methods in Marketing",
+    "code": "MARK4210",
+    "year": "2023"
+  },
+  {
+    "title": "Research Seminar in Marketing",
+    "code": "MARK4211",
+    "year": "2023"
+  },
+  {
+    "title": "Quantitative Methods and Models in Marketing",
+    "code": "MARK4212",
+    "year": "2023"
+  },
+  {
+    "title": "Seminar in Consumer Behaviour",
+    "code": "MARK4214",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis (Marketing) A",
+    "code": "MARK4300",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis (Marketing) B",
+    "code": "MARK4301",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis (Marketing) C",
+    "code": "MARK4302",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals of Mathematics B",
+    "code": "MATH1011",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics for Life Sciences",
+    "code": "MATH1031",
+    "year": "2023"
+  },
+  {
+    "title": "Statistics for Life and Social Sciences",
+    "code": "MATH1041",
+    "year": "2023"
+  },
+  {
+    "title": "Discrete Mathematics",
+    "code": "MATH1081",
+    "year": "2023"
+  },
+  {
+    "title": "Industrial Placement 1 (Co-Op)",
+    "code": "MATH1099",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics 1A",
+    "code": "MATH1131",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Mathematics 1A",
+    "code": "MATH1141",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics for Actuarial Studies and Finance 1A",
+    "code": "MATH1151",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics 1B",
+    "code": "MATH1231",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Mathematics 1B",
+    "code": "MATH1241",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics for Actuarial Studies and Finance 1B",
+    "code": "MATH1251",
+    "year": "2023"
+  },
+  {
+    "title": "Several Variable Calculus",
+    "code": "MATH2011",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Mathematics 2D",
+    "code": "MATH2018",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Mathematics 2E",
+    "code": "MATH2019",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics 2A",
+    "code": "MATH2069",
+    "year": "2023"
+  },
+  {
+    "title": "Numerical Methods and Statistics",
+    "code": "MATH2089",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics 2B",
+    "code": "MATH2099",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Several Variable Calculus",
+    "code": "MATH2111",
+    "year": "2023"
+  },
+  {
+    "title": "Theory and Applications of Differential Equations",
+    "code": "MATH2121",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Theory and Applications of Differential Equations",
+    "code": "MATH2221",
+    "year": "2023"
+  },
+  {
+    "title": "Introduction to Atmosphere and Ocean Dynamics",
+    "code": "MATH2241",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematical Computing",
+    "code": "MATH2301",
+    "year": "2023"
+  },
+  {
+    "title": "Finite Mathematics",
+    "code": "MATH2400",
+    "year": "2023"
+  },
+  {
+    "title": "Linear Algebra",
+    "code": "MATH2501",
+    "year": "2023"
+  },
+  {
+    "title": "Complex Analysis",
+    "code": "MATH2521",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Linear Algebra",
+    "code": "MATH2601",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Complex Analysis",
+    "code": "MATH2621",
+    "year": "2023"
+  },
+  {
+    "title": "Abstract Algebra and Fundamental Analysis",
+    "code": "MATH2701",
+    "year": "2023"
+  },
+  {
+    "title": "Theory of Statistics",
+    "code": "MATH2801",
+    "year": "2023"
+  },
+  {
+    "title": "Linear Models",
+    "code": "MATH2831",
+    "year": "2023"
+  },
+  {
+    "title": "Probability, Statistics and Information",
+    "code": "MATH2859",
+    "year": "2023"
+  },
+  {
+    "title": "Data Management for Statistical Analysis",
+    "code": "MATH2871",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Theory of Statistics",
+    "code": "MATH2901",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Linear Models",
+    "code": "MATH2931",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics/Statistics Project",
+    "code": "MATH3000",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics/Statistics Project",
+    "code": "MATH3001",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics/Statistics Project",
+    "code": "MATH3002",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematical Modelling for Real World Systems",
+    "code": "MATH3041",
+    "year": "2023"
+  },
+  {
+    "title": "Applied Real and Functional Analysis",
+    "code": "MATH3051",
+    "year": "2023"
+  },
+  {
+    "title": "Computational Mathematics for Science and Engineering",
+    "code": "MATH3101",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematical Methods and Partial Differential Equations",
+    "code": "MATH3121",
+    "year": "2023"
+  },
+  {
+    "title": "Optimization",
+    "code": "MATH3161",
+    "year": "2023"
+  },
+  {
+    "title": "Linear and Discrete Optimization Modelling",
+    "code": "MATH3171",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematical Optimization for Data Science",
+    "code": "MATH3191",
+    "year": "2023"
+  },
+  {
+    "title": "Dynamical Systems and Chaos",
+    "code": "MATH3201",
+    "year": "2023"
+  },
+  {
+    "title": "Fluids, Oceans and Climate",
+    "code": "MATH3261",
+    "year": "2023"
+  },
+  {
+    "title": "Computational Mathematics for Finance",
+    "code": "MATH3311",
+    "year": "2023"
+  },
+  {
+    "title": "Stochastic Differential Equations: Theory, Applications, and Numerical Methods",
+    "code": "MATH3361",
+    "year": "2023"
+  },
+  {
+    "title": "Numerical Linear Algebra",
+    "code": "MATH3371",
+    "year": "2023"
+  },
+  {
+    "title": "Information, Codes and Ciphers",
+    "code": "MATH3411",
+    "year": "2023"
+  },
+  {
+    "title": "Number Theory",
+    "code": "MATH3431",
+    "year": "2023"
+  },
+  {
+    "title": "Transformations, Groups and Geometry",
+    "code": "MATH3511",
+    "year": "2023"
+  },
+  {
+    "title": "Algebraic Techniques in Number Theory",
+    "code": "MATH3521",
+    "year": "2023"
+  },
+  {
+    "title": "Topology and Differential Geometry",
+    "code": "MATH3531",
+    "year": "2023"
+  },
+  {
+    "title": "History of Mathematics",
+    "code": "MATH3560",
+    "year": "2023"
+  },
+  {
+    "title": "Foundations of Calculus",
+    "code": "MATH3570",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Analysis",
+    "code": "MATH3611",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Topology and Differential Geometry",
+    "code": "MATH3701",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Algebra",
+    "code": "MATH3711",
+    "year": "2023"
+  },
+  {
+    "title": "Probability and Stochastic Processes",
+    "code": "MATH3801",
+    "year": "2023"
+  },
+  {
+    "title": "Statistical Inference",
+    "code": "MATH3811",
+    "year": "2023"
+  },
+  {
+    "title": "Statistical Modelling and Computing",
+    "code": "MATH3821",
+    "year": "2023"
+  },
+  {
+    "title": "Statistical Methods in Social and Market Research",
+    "code": "MATH3831",
+    "year": "2023"
+  },
+  {
+    "title": "Statistical Analysis of Dependent Data",
+    "code": "MATH3841",
+    "year": "2023"
+  },
+  {
+    "title": "Experimental Design and Categorical Data",
+    "code": "MATH3851",
+    "year": "2023"
+  },
+  {
+    "title": "Introduction to Data and Machine Learning ",
+    "code": "MATH3856",
+    "year": "2023"
+  },
+  {
+    "title": "Bayesian Inference and Computation",
+    "code": "MATH3871",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Probability and Stochastic Processes",
+    "code": "MATH3901",
+    "year": "2023"
+  },
+  {
+    "title": "Higher Statistical Inference",
+    "code": "MATH3911",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematics and Statistics Honours Thesis",
+    "code": "MATH4001",
+    "year": "2023"
+  },
+  {
+    "title": "Dynamical Systems and Chaos",
+    "code": "MATH5201",
+    "year": "2023"
+  },
+  {
+    "title": "Biomathematics",
+    "code": "MATH6781",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Materials and Chemistry",
+    "code": "MATS1101",
+    "year": "2023"
+  },
+  {
+    "title": "Introduction to Materials for Engineering Applications",
+    "code": "MATS1110",
+    "year": "2023"
+  },
+  {
+    "title": "Design and Application of Materials in Science and Engineering",
+    "code": "MATS1192",
+    "year": "2023"
+  },
+  {
+    "title": "Physical Properties of Materials",
+    "code": "MATS2001",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Characterisation",
+    "code": "MATS2003",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanical Behaviour of Materials",
+    "code": "MATS2004",
+    "year": "2023"
+  },
+  {
+    "title": "Introduction to Fluid Flow and Heat Transfer",
+    "code": "MATS2005",
+    "year": "2023"
+  },
+  {
+    "title": "Diffusion and Kinetics",
+    "code": "MATS2006",
+    "year": "2023"
+  },
+  {
+    "title": "Sustainable Materials Processing",
+    "code": "MATS2007",
+    "year": "2023"
+  },
+  {
+    "title": "Thermodynamics and Phase Equilibria",
+    "code": "MATS2008",
+    "year": "2023"
+  },
+  {
+    "title": "Micromechanisms of Mechanical Behaviour of Metals",
+    "code": "MATS3001",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals of Ceramic Processing",
+    "code": "MATS3002",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering in Process Metallurgy",
+    "code": "MATS3003",
+    "year": "2023"
+  },
+  {
+    "title": "Polymer Science and Engineering 1",
+    "code": "MATS3004",
+    "year": "2023"
+  },
+  {
+    "title": "Phase Transformations",
+    "code": "MATS3005",
+    "year": "2023"
+  },
+  {
+    "title": "Design and Application of Materials in Science and Engineering 3",
+    "code": "MATS3006",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Industry Management",
+    "code": "MATS3007",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Science Work Placement 1",
+    "code": "MATS3199",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Science Work Placement 2",
+    "code": "MATS3299",
+    "year": "2023"
+  },
+  {
+    "title": "Secondary Processing of Metals",
+    "code": "MATS4001",
+    "year": "2023"
+  },
+  {
+    "title": "Design and Advanced Ceramics",
+    "code": "MATS4002",
+    "year": "2023"
+  },
+  {
+    "title": "Process Metallurgy Advanced",
+    "code": "MATS4003",
+    "year": "2023"
+  },
+  {
+    "title": "Fracture Mechanics and Failure Analysis",
+    "code": "MATS4004",
+    "year": "2023"
+  },
+  {
+    "title": "Composites and Functional Materials",
+    "code": "MATS4005",
+    "year": "2023"
+  },
+  {
+    "title": "Polymer Science and Engineering 2",
+    "code": "MATS4006",
+    "year": "2023"
+  },
+  {
+    "title": "Engineered Surfaces to Resist Corrosion and Wear",
+    "code": "MATS4007",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Engineering Project",
+    "code": "MATS4008",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Engineering Project",
+    "code": "MATS4100",
+    "year": "2023"
+  },
+  {
+    "title": "Professional Skills",
+    "code": "MATS4503",
+    "year": "2023"
+  },
+  {
+    "title": "Research Training",
+    "code": "MATS4504",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Science Honours Project",
+    "code": "MATS4505",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis A",
+    "code": "MATS5001",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis B",
+    "code": "MATS5002",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Thesis",
+    "code": "MATS5003",
+    "year": "2023"
+  },
+  {
+    "title": "Recycling of Materials",
+    "code": "MATS6006",
+    "year": "2023"
+  },
+  {
+    "title": "Sustainable Materials Engineering",
+    "code": "MATS6007",
+    "year": "2023"
+  },
+  {
+    "title": "Medicine Honours",
+    "code": "MDCN8000",
+    "year": "2023"
+  },
+  {
+    "title": "Medicine Honours",
+    "code": "MDCN8001",
+    "year": "2023"
+  },
+  {
+    "title": "Medicine Honours",
+    "code": "MDCN8888",
+    "year": "2023"
+  },
+  {
+    "title": "Medicine Honours",
+    "code": "MDCN8889",
+    "year": "2023"
+  },
+  {
+    "title": "Journalistic Voices and Values",
+    "code": "MDIA1002",
+    "year": "2023"
+  },
+  {
+    "title": "Public Relations and Advertising Foundations",
+    "code": "MDIA1003",
+    "year": "2023"
+  },
+  {
+    "title": "News Fundamentals",
+    "code": "MDIA1004",
+    "year": "2023"
+  },
+  {
+    "title": "Creative Sound Technologies",
+    "code": "MDIA1005",
+    "year": "2023"
+  },
+  {
+    "title": "Digital Entrepreneurship",
+    "code": "MDIA1007",
+    "year": "2023"
+  },
+  {
+    "title": "Engaging Audiences",
+    "code": "MDIA1008",
+    "year": "2023"
+  },
+  {
+    "title": "Media, Culture and Everyday Life",
+    "code": "MDIA1090",
+    "year": "2023"
+  },
+  {
+    "title": "Media, Society, Politics",
+    "code": "MDIA1091",
+    "year": "2023"
+  },
+  {
+    "title": "Working with Data",
+    "code": "MDIA1092",
+    "year": "2023"
+  },
+  {
+    "title": "Animating Media",
+    "code": "MDIA2000",
+    "year": "2023"
+  },
+  {
+    "title": "Opinion Journalism",
+    "code": "MDIA2002",
+    "year": "2023"
+  },
+  {
+    "title": "Features Journalism",
+    "code": "MDIA2003",
+    "year": "2023"
+  },
+  {
+    "title": "Creative Advertising",
+    "code": "MDIA2005",
+    "year": "2023"
+  },
+  {
+    "title": "Communication Strategies",
+    "code": "MDIA2006",
+    "year": "2023"
+  },
+  {
+    "title": "Political Communication",
+    "code": "MDIA2007",
+    "year": "2023"
+  },
+  {
+    "title": "Broadcast Journalism",
+    "code": "MDIA2008",
+    "year": "2023"
+  },
+  {
+    "title": "Communication Principles",
+    "code": "MDIA2009",
+    "year": "2023"
+  },
+  {
+    "title": "Serious Games",
+    "code": "MDIA2010",
+    "year": "2023"
+  },
+  {
+    "title": "Corporate Communication",
+    "code": "MDIA2011",
+    "year": "2023"
+  },
+  {
+    "title": "Promotional Cultures",
+    "code": "MDIA2012",
+    "year": "2023"
+  },
+  {
+    "title": "Making Virtual Reality Documentaries",
+    "code": "MDIA2013",
+    "year": "2023"
+  },
+  {
+    "title": "Time, Space, Experience",
+    "code": "MDIA2014",
+    "year": "2023"
+  },
+  {
+    "title": "Mobile Cultures",
+    "code": "MDIA2091",
+    "year": "2023"
+  },
+  {
+    "title": "Transnational Media: Markets, Flows and Cultures",
+    "code": "MDIA2092",
+    "year": "2023"
+  },
+  {
+    "title": "Social Media",
+    "code": "MDIA2093",
+    "year": "2023"
+  },
+  {
+    "title": "Visual Communication",
+    "code": "MDIA2094",
+    "year": "2023"
+  },
+  {
+    "title": "The Networked Self",
+    "code": "MDIA2095",
+    "year": "2023"
+  },
+  {
+    "title": "Media and Social Justice",
+    "code": "MDIA2096",
+    "year": "2023"
+  },
+  {
+    "title": "Advertising in Action",
+    "code": "MDIA3000",
+    "year": "2023"
+  },
+  {
+    "title": "News Analysis and Production",
+    "code": "MDIA3002",
+    "year": "2023"
+  },
+  {
+    "title": "Professional Portfolio",
+    "code": "MDIA3003",
+    "year": "2023"
+  },
+  {
+    "title": "Independent Production Project",
+    "code": "MDIA3004",
+    "year": "2023"
+  },
+  {
+    "title": "Promotion for Social Change",
+    "code": "MDIA3005",
+    "year": "2023"
+  },
+  {
+    "title": "Collaborative Client Project",
+    "code": "MDIA3006",
+    "year": "2023"
+  },
+  {
+    "title": "Issues and Crisis Communication",
+    "code": "MDIA3008",
+    "year": "2023"
+  },
+  {
+    "title": "Building Brands",
+    "code": "MDIA3009",
+    "year": "2023"
+  },
+  {
+    "title": "Professional Media Practices: Creating, Publishing and Publicising Digital Journalism",
+    "code": "MDIA3010",
+    "year": "2023"
+  },
+  {
+    "title": "Communication Design",
+    "code": "MDIA3011",
+    "year": "2023"
+  },
+  {
+    "title": "Public Relations in Practice",
+    "code": "MDIA3012",
+    "year": "2023"
+  },
+  {
+    "title": "Media, Culture and Technology Capstone: Media Cultures",
+    "code": "MDIA3090",
+    "year": "2023"
+  },
+  {
+    "title": "Media Futures",
+    "code": "MDIA3091",
+    "year": "2023"
+  },
+  {
+    "title": "Media in the Asia-Pacific",
+    "code": "MDIA3092",
+    "year": "2023"
+  },
+  {
+    "title": "Media Power",
+    "code": "MDIA3093",
+    "year": "2023"
+  },
+  {
+    "title": "Media, Climate Crisis, and Extinction in the Anthropocene",
+    "code": "MDIA3096",
+    "year": "2023"
+  },
+  {
+    "title": "Current Debates in Media and Culture",
+    "code": "MDIA3097",
+    "year": "2023"
+  },
+  {
+    "title": "Media Honours",
+    "code": "MDIA4000",
+    "year": "2023"
+  },
+  {
+    "title": "Media Honours",
+    "code": "MDIA4001",
+    "year": "2023"
+  },
+  {
+    "title": "Media Honours",
+    "code": "MDIA4002",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanical Design 1",
+    "code": "MECH3110",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Thermofluids",
+    "code": "MECH3610",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals and Design of Electrochemical Energy Storage Systems",
+    "code": "MECH3700",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanical Design 2",
+    "code": "MECH4100",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamental and Advanced Vibration Analysis",
+    "code": "MECH4305",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Mechanics 3",
+    "code": "MECH4320",
+    "year": "2023"
+  },
+  {
+    "title": "Computational Fluid Dynamics",
+    "code": "MECH4620",
+    "year": "2023"
+  },
+  {
+    "title": "Refrigeration and Air Conditioning 1",
+    "code": "MECH4880",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanics of Fracture and Fatigue",
+    "code": "MECH4900",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals of Acoustics & Noise",
+    "code": "MECH9325",
+    "year": "2023"
+  },
+  {
+    "title": "Composite Materials and Mechanics",
+    "code": "MECH9420",
+    "year": "2023"
+  },
+  {
+    "title": "Applied Bio and Microfluidics",
+    "code": "MECH9650",
+    "year": "2023"
+  },
+  {
+    "title": "Solar Thermal Energy Design",
+    "code": "MECH9720",
+    "year": "2023"
+  },
+  {
+    "title": "Automobile Engine Technology",
+    "code": "MECH9761",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topic in Mechanical Engineering",
+    "code": "MECH9910",
+    "year": "2023"
+  },
+  {
+    "title": "Sedimentary and Energy Resources Geology",
+    "code": "MERE2001",
+    "year": "2023"
+  },
+  {
+    "title": "Seismic Imaging",
+    "code": "MERE2002",
+    "year": "2023"
+  },
+  {
+    "title": "Mineral Resource Geology & Geophysics",
+    "code": "MERE2810",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis A",
+    "code": "MERE4951",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis B",
+    "code": "MERE4952",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis C",
+    "code": "MERE4953",
+    "year": "2023"
+  },
+  {
+    "title": "Data Analytics and Automated Technologies for Minerals and Energy Resources",
+    "code": "MERE8810",
+    "year": "2023"
+  },
+  {
+    "title": "Foundations",
+    "code": "MFAC1501",
+    "year": "2023"
+  },
+  {
+    "title": "Beginnings, Growth and Development A",
+    "code": "MFAC1521",
+    "year": "2023"
+  },
+  {
+    "title": "Beginnings, Growth and Development B",
+    "code": "MFAC1522",
+    "year": "2023"
+  },
+  {
+    "title": "Health Maintenance A",
+    "code": "MFAC1523",
+    "year": "2023"
+  },
+  {
+    "title": "Health Maintenance B",
+    "code": "MFAC1524",
+    "year": "2023"
+  },
+  {
+    "title": "Ageing and Endings A",
+    "code": "MFAC1525",
+    "year": "2023"
+  },
+  {
+    "title": "Ageing and Endings B",
+    "code": "MFAC1526",
+    "year": "2023"
+  },
+  {
+    "title": "Society and Health",
+    "code": "MFAC1527",
+    "year": "2023"
+  },
+  {
+    "title": "Introductory Clinical and Communication Skills",
+    "code": "MFAC1601",
+    "year": "2023"
+  },
+  {
+    "title": "Clinical Transition",
+    "code": "MFAC2507",
+    "year": "2023"
+  },
+  {
+    "title": "Clinical Skills Refresher",
+    "code": "MFAC2509",
+    "year": "2023"
+  },
+  {
+    "title": "Graduate Entry Bridging",
+    "code": "MFAC2510",
+    "year": "2023"
+  },
+  {
+    "title": "Phase 2 Portfolio Examination",
+    "code": "MFAC2511",
+    "year": "2023"
+  },
+  {
+    "title": "Phase 2 Integrated Clinical Assessment",
+    "code": "MFAC2512",
+    "year": "2023"
+  },
+  {
+    "title": "Integrated Clinical Studies 1",
+    "code": "MFAC2514",
+    "year": "2023"
+  },
+  {
+    "title": "Integrated Clinical Studies 2",
+    "code": "MFAC2515",
+    "year": "2023"
+  },
+  {
+    "title": "Integrated Clinical Studies 3",
+    "code": "MFAC2516",
+    "year": "2023"
+  },
+  {
+    "title": "Medicine",
+    "code": "MFAC3501",
+    "year": "2023"
+  },
+  {
+    "title": "Surgery",
+    "code": "MFAC3502",
+    "year": "2023"
+  },
+  {
+    "title": "Psychiatry",
+    "code": "MFAC3503",
+    "year": "2023"
+  },
+  {
+    "title": "Primary Care",
+    "code": "MFAC3504",
+    "year": "2023"
+  },
+  {
+    "title": "Obstetrics and Gynaecology",
+    "code": "MFAC3505",
+    "year": "2023"
+  },
+  {
+    "title": "Children's Health (Paediatrics)",
+    "code": "MFAC3506",
+    "year": "2023"
+  },
+  {
+    "title": "Critical Care",
+    "code": "MFAC3508",
+    "year": "2023"
+  },
+  {
+    "title": "Selective",
+    "code": "MFAC3509",
+    "year": "2023"
+  },
+  {
+    "title": "Phase 3 Biomedical Sciences Viva",
+    "code": "MFAC3512",
+    "year": "2023"
+  },
+  {
+    "title": "Elective",
+    "code": "MFAC3514",
+    "year": "2023"
+  },
+  {
+    "title": "Preparation for Internship (PRINT)",
+    "code": "MFAC3515",
+    "year": "2023"
+  },
+  {
+    "title": "Phase 3 Portfolio Examination",
+    "code": "MFAC3522",
+    "year": "2023"
+  },
+  {
+    "title": "Phase 3 Integrated Clinical Examination",
+    "code": "MFAC3523",
+    "year": "2023"
+  },
+  {
+    "title": "Value-Based Health Care in Clinical Practice",
+    "code": "MFAC4001",
+    "year": "2023"
+  },
+  {
+    "title": "Independent Learning Project",
+    "code": "MFAC4888",
+    "year": "2023"
+  },
+  {
+    "title": "Independent Learning Project (ILP)",
+    "code": "MFAC4999",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Innovation and Organisational Change",
+    "code": "MGMT2001",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Business Communication",
+    "code": "MGMT2002",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Organisational Behaviour",
+    "code": "MGMT2004",
+    "year": "2023"
+  },
+  {
+    "title": "Innovation and Entrepreneurship",
+    "code": "MGMT2010",
+    "year": "2023"
+  },
+  {
+    "title": "International Business and Multinational Operations",
+    "code": "MGMT2101",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Across Cultures",
+    "code": "MGMT2102",
+    "year": "2023"
+  },
+  {
+    "title": "Comparative Management Systems",
+    "code": "MGMT2106",
+    "year": "2023"
+  },
+  {
+    "title": "Industrial Relations",
+    "code": "MGMT2705",
+    "year": "2023"
+  },
+  {
+    "title": "Human Resource Management",
+    "code": "MGMT2718",
+    "year": "2023"
+  },
+  {
+    "title": "Managing People",
+    "code": "MGMT2721",
+    "year": "2023"
+  },
+  {
+    "title": "Career Management",
+    "code": "MGMT2725",
+    "year": "2023"
+  },
+  {
+    "title": "Business Ethics and Sustainability",
+    "code": "MGMT2726",
+    "year": "2023"
+  },
+  {
+    "title": "Business and Corporate Strategy",
+    "code": "MGMT3001",
+    "year": "2023"
+  },
+  {
+    "title": "Solving Complex Strategy and Policy Problems",
+    "code": "MGMT3004",
+    "year": "2023"
+  },
+  {
+    "title": "International Business Strategy",
+    "code": "MGMT3101",
+    "year": "2023"
+  },
+  {
+    "title": "Asia-Pacific Business",
+    "code": "MGMT3102",
+    "year": "2023"
+  },
+  {
+    "title": "Integrative Seminar in Global Business",
+    "code": "MGMT3110",
+    "year": "2023"
+  },
+  {
+    "title": "Regulating Work and Employment",
+    "code": "MGMT3701",
+    "year": "2023"
+  },
+  {
+    "title": "International Human Resource Management",
+    "code": "MGMT3702",
+    "year": "2023"
+  },
+  {
+    "title": "Negotiation Skills",
+    "code": "MGMT3721",
+    "year": "2023"
+  },
+  {
+    "title": "Strategic Human Resource Management",
+    "code": "MGMT3724",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Pay and Performance",
+    "code": "MGMT3728",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Training and Development",
+    "code": "MGMT3729",
+    "year": "2023"
+  },
+  {
+    "title": "Human Capital Analytics",
+    "code": "MGMT3730",
+    "year": "2023"
+  },
+  {
+    "title": "Contemporary Research Topic",
+    "code": "MGMT4101",
+    "year": "2023"
+  },
+  {
+    "title": "Contemporary Research Topic",
+    "code": "MGMT4104",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis A in International Business",
+    "code": "MGMT4500",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis B in International Business",
+    "code": "MGMT4501",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis (Human Resource Management)",
+    "code": "MGMT4738",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis B (Human Resource Management)",
+    "code": "MGMT4739",
+    "year": "2023"
+  },
+  {
+    "title": "Microbiology 1",
+    "code": "MICR2011",
+    "year": "2023"
+  },
+  {
+    "title": "Microbiology for the Pharmaceutical Sciences",
+    "code": "MICR2012",
+    "year": "2023"
+  },
+  {
+    "title": "Viruses and Disease",
+    "code": "MICR3061",
+    "year": "2023"
+  },
+  {
+    "title": "Environmental Microbiology",
+    "code": "MICR3071",
+    "year": "2023"
+  },
+  {
+    "title": "Microbial Genetics (Advanced)",
+    "code": "MICR3621",
+    "year": "2023"
+  },
+  {
     "title": "Mineral Resources Engineering",
     "code": "MINE1010",
     "year": "2023"
@@ -78,9 +1503,1374 @@
     "title": "Sustainable Tailings Management",
     "code": "MINE8950",
     "year": "2023"
+  },
+  {
+    "title": "Design and Manufacturing",
+    "code": "MMAN1130",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Mechanics",
+    "code": "MMAN1300",
+    "year": "2023"
+  },
+  {
+    "title": "Design and Manufacturing",
+    "code": "MMAN2130",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Mechanics 2",
+    "code": "MMAN2300",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanics of Solids 1",
+    "code": "MMAN2400",
+    "year": "2023"
+  },
+  {
+    "title": "Fluid Mechanics",
+    "code": "MMAN2600",
+    "year": "2023"
+  },
+  {
+    "title": "Thermodynamics",
+    "code": "MMAN2700",
+    "year": "2023"
+  },
+  {
+    "title": "Professional Engineering and Communication",
+    "code": "MMAN3000",
+    "year": "2023"
+  },
+  {
+    "title": "Linear Systems and Control",
+    "code": "MMAN3200",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanics of Solids 2",
+    "code": "MMAN3400",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis A",
+    "code": "MMAN4010",
+    "year": "2023"
+  },
+  {
+    "title": "Thesis B",
+    "code": "MMAN4020",
+    "year": "2023"
+  },
+  {
+    "title": "Additive Manufacturing",
+    "code": "MMAN4200",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Management",
+    "code": "MMAN4400",
+    "year": "2023"
+  },
+  {
+    "title": "Finite Element Methods",
+    "code": "MMAN4410",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis A",
+    "code": "MMAN4951",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis B",
+    "code": "MMAN4952",
+    "year": "2023"
+  },
+  {
+    "title": "Research Thesis C",
+    "code": "MMAN4953",
+    "year": "2023"
+  },
+  {
+    "title": "The Marine Environment",
+    "code": "MSCI0501",
+    "year": "2023"
+  },
+  {
+    "title": "Introductory Marine Science",
+    "code": "MSCI1001",
+    "year": "2023"
+  },
+  {
+    "title": "Coral Reefs in a Changing Climate",
+    "code": "MSCI2060",
+    "year": "2023"
+  },
+  {
+    "title": "Physical Oceanography",
+    "code": "MSCI3001",
+    "year": "2023"
+  },
+  {
+    "title": "Topics in Australian Marine Science",
+    "code": "MSCI6681",
+    "year": "2023"
+  },
+  {
+    "title": "Computing for Mechatronic Engineers",
+    "code": "MTRN2500",
+    "year": "2023"
+  },
+  {
+    "title": "Modelling and Control of Mechatronic Systems",
+    "code": "MTRN3020",
+    "year": "2023"
+  },
+  {
+    "title": "Robot Design",
+    "code": "MTRN3100",
+    "year": "2023"
+  },
+  {
+    "title": "Computing Applications in Mechatronics Systems",
+    "code": "MTRN3500",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Autonomous Systems",
+    "code": "MTRN4010",
+    "year": "2023"
+  },
+  {
+    "title": "Optimisation Methods for Engineering Systems",
+    "code": "MTRN4030",
+    "year": "2023"
+  },
+  {
+    "title": "Robot Design",
+    "code": "MTRN4110",
+    "year": "2023"
+  },
+  {
+    "title": "Robotics",
+    "code": "MTRN4230",
+    "year": "2023"
+  },
+  {
+    "title": "Robotics Project",
+    "code": "MTRN4231",
+    "year": "2023"
+  },
+  {
+    "title": "Control of Robotic Systems",
+    "code": "MTRN9400",
+    "year": "2023"
+  },
+  {
+    "title": "Western Music: a Panorama",
+    "code": "MUSC1604",
+    "year": "2023"
+  },
+  {
+    "title": "Music Craft 1",
+    "code": "MUSC1801",
+    "year": "2023"
+  },
+  {
+    "title": "Music Craft 2",
+    "code": "MUSC1802",
+    "year": "2023"
+  },
+  {
+    "title": "Music Craft 3",
+    "code": "MUSC1803",
+    "year": "2023"
+  },
+  {
+    "title": "BA Music Craft 1",
+    "code": "MUSC1804",
+    "year": "2023"
+  },
+  {
+    "title": "BA Music Craft 2",
+    "code": "MUSC1805",
+    "year": "2023"
+  },
+  {
+    "title": "BA Music Craft 3",
+    "code": "MUSC1806",
+    "year": "2023"
+  },
+  {
+    "title": "Music Literacies 1",
+    "code": "MUSC1807",
+    "year": "2023"
+  },
+  {
+    "title": "Music Literacies 2",
+    "code": "MUSC1808",
+    "year": "2023"
+  },
+  {
+    "title": "What's Music About?",
+    "code": "MUSC1901",
+    "year": "2023"
+  },
+  {
+    "title": "Film Music",
+    "code": "MUSC2113",
+    "year": "2023"
+  },
+  {
+    "title": "Music of the 19th Century",
+    "code": "MUSC2115",
+    "year": "2023"
+  },
+  {
+    "title": "Sound, Society and Self in World Music",
+    "code": "MUSC2116",
+    "year": "2023"
+  },
+  {
+    "title": "Popular Music: Histories, Grooves, and Texts",
+    "code": "MUSC2117",
+    "year": "2023"
+  },
+  {
+    "title": "Materials and Structures of Music 3",
+    "code": "MUSC2602",
+    "year": "2023"
+  },
+  {
+    "title": "Materials and Structures of Music 4",
+    "code": "MUSC2603",
+    "year": "2023"
+  },
+  {
+    "title": "Performance Laboratory B",
+    "code": "MUSC2703",
+    "year": "2023"
+  },
+  {
+    "title": "Music Ensemble",
+    "code": "MUSC2706",
+    "year": "2023"
+  },
+  {
+    "title": "Music Performance Styles and Interpretation",
+    "code": "MUSC2801",
+    "year": "2023"
+  },
+  {
+    "title": "Music Studio Teaching",
+    "code": "MUSC2802",
+    "year": "2023"
+  },
+  {
+    "title": "Creative Sound Technologies",
+    "code": "MUSC2803",
+    "year": "2023"
+  },
+  {
+    "title": "Music at the Edge",
+    "code": "MUSC2804",
+    "year": "2023"
+  },
+  {
+    "title": "Music Craft 4",
+    "code": "MUSC2901",
+    "year": "2023"
+  },
+  {
+    "title": "Music Craft 5",
+    "code": "MUSC2902",
+    "year": "2023"
+  },
+  {
+    "title": "Music Craft 6",
+    "code": "MUSC2903",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Musical Literacies",
+    "code": "MUSC2905",
+    "year": "2023"
+  },
+  {
+    "title": "Jazz: its Sound and History",
+    "code": "MUSC3104",
+    "year": "2023"
+  },
+  {
+    "title": "Psychology of Music",
+    "code": "MUSC3105",
+    "year": "2023"
+  },
+  {
+    "title": "Twentieth Century Music",
+    "code": "MUSC3162",
+    "year": "2023"
+  },
+  {
+    "title": "Musical Transformations: Orchestration, Arrangement, Transcription and Recomposition",
+    "code": "MUSC3302",
+    "year": "2023"
+  },
+  {
+    "title": "Performance Laboratory C",
+    "code": "MUSC3705",
+    "year": "2023"
+  },
+  {
+    "title": "Performance Laboratory C (Creative Practice/Music Pedagogy)",
+    "code": "MUSC3706",
+    "year": "2023"
+  },
+  {
+    "title": "Creative Projects in Performance and Composition",
+    "code": "MUSC3801",
+    "year": "2023"
+  },
+  {
+    "title": "Music Analysis",
+    "code": "MUSC3802",
+    "year": "2023"
+  },
+  {
+    "title": "Educating the Musical Novice",
+    "code": "MUSC3804",
+    "year": "2023"
+  },
+  {
+    "title": "Electroacoustic Music",
+    "code": "MUSC3805",
+    "year": "2023"
+  },
+  {
+    "title": "Immersive Audio",
+    "code": "MUSC3806",
+    "year": "2023"
+  },
+  {
+    "title": "MusiCultures",
+    "code": "MUSC3807",
+    "year": "2023"
+  },
+  {
+    "title": "Becoming a Performer",
+    "code": "MUSC3808",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Music Craft",
+    "code": "MUSC3809",
+    "year": "2023"
+  },
+  {
+    "title": "Music Honours",
+    "code": "MUSC4009",
+    "year": "2023"
+  },
+  {
+    "title": "Music Honours",
+    "code": "MUSC4010",
+    "year": "2023"
+  },
+  {
+    "title": "Music Honours",
+    "code": "MUSC4011",
+    "year": "2023"
+  },
+  {
+    "title": "Music Creative Practice Honours Project",
+    "code": "MUSC4013",
+    "year": "2023"
+  },
+  {
+    "title": "Music Creative Practice Honours Project",
+    "code": "MUSC4014",
+    "year": "2023"
+  },
+  {
+    "title": "Music Honours Thesis",
+    "code": "MUSC4015",
+    "year": "2023"
+  },
+  {
+    "title": "Music Honours Thesis",
+    "code": "MUSC4016",
+    "year": "2023"
+  },
+  {
+    "title": "Music Honours Thesis",
+    "code": "MUSC4017",
+    "year": "2023"
+  },
+  {
+    "title": "Critical Investigations in Music",
+    "code": "MUSC4101",
+    "year": "2023"
+  },
+  {
+    "title": "Critical Practice in Music",
+    "code": "MUSC4102",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Studies in Music History and Culture 1",
+    "code": "MUSC4103",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Studies in Music History & Culture 2",
+    "code": "MUSC4104",
+    "year": "2023"
+  },
+  {
+    "title": "Performance Laboratory D (Music Creative Practice)",
+    "code": "MUSC4705",
+    "year": "2023"
   }
 ]
 [
+  {
+    "title": "Design and Analysis of Product-Process Systems",
+    "code": "MANF4100",
+    "year": "2023"
+  },
+  {
+    "title": "Design of Intelligent Manufacturing Systems",
+    "code": "MANF4150",
+    "year": "2023"
+  },
+  {
+    "title": "Reliability and Maintenance Engineering",
+    "code": "MANF4430",
+    "year": "2023"
+  },
+  {
+    "title": "Process Modelling and Simulation",
+    "code": "MANF4611",
+    "year": "2023"
+  },
+  {
+    "title": "Strategic Manufacturing Management",
+    "code": "MANF6860",
+    "year": "2023"
+  },
+  {
+    "title": "Industrial Management",
+    "code": "MANF9400",
+    "year": "2023"
+  },
+  {
+    "title": "Operations and Supply Chain Management in Engineering",
+    "code": "MANF9420",
+    "year": "2023"
+  },
+  {
+    "title": "Production Planning and Control",
+    "code": "MANF9472",
+    "year": "2023"
+  },
+  {
+    "title": "Computer Aided Design / Computer Aided Manufacture",
+    "code": "MANF9543",
+    "year": "2023"
+  },
+  {
+    "title": "Concurrent Product and Process Design",
+    "code": "MANF9544",
+    "year": "2023"
+  },
+  {
+    "title": "Robotic 3D Printing",
+    "code": "MANF9550",
+    "year": "2023"
+  },
+  {
+    "title": "Elements of Marketing",
+    "code": "MARK5700",
+    "year": "2023"
+  },
+  {
+    "title": "Consumer Behaviour",
+    "code": "MARK5800",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Communication and Promotion",
+    "code": "MARK5810",
+    "year": "2023"
+  },
+  {
+    "title": "Applied Marketing Research",
+    "code": "MARK5811",
+    "year": "2023"
+  },
+  {
+    "title": "Distribution, Retail Channels and Logistics",
+    "code": "MARK5812",
+    "year": "2023"
+  },
+  {
+    "title": "New Product and Service Development",
+    "code": "MARK5813",
+    "year": "2023"
+  },
+  {
+    "title": "Digital Marketing",
+    "code": "MARK5814",
+    "year": "2023"
+  },
+  {
+    "title": "Services Marketing Management",
+    "code": "MARK5816",
+    "year": "2023"
+  },
+  {
+    "title": "Events Management and Marketing",
+    "code": "MARK5820",
+    "year": "2023"
+  },
+  {
+    "title": "Brand Management",
+    "code": "MARK5821",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Analytics Tools",
+    "code": "MARK5822",
+    "year": "2023"
+  },
+  {
+    "title": "Sales Strategy and Implementation",
+    "code": "MARK5824",
+    "year": "2023"
+  },
+  {
+    "title": "Global Marketing Strategy",
+    "code": "MARK5825",
+    "year": "2023"
+  },
+  {
+    "title": "Product Analytics",
+    "code": "MARK5826",
+    "year": "2023"
+  },
+  {
+    "title": "Customer Analytics",
+    "code": "MARK5827",
+    "year": "2023"
+  },
+  {
+    "title": "Advertising Analytics",
+    "code": "MARK5828",
+    "year": "2023"
+  },
+  {
+    "title": "Pricing Analytics",
+    "code": "MARK5829",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Analytics Project",
+    "code": "MARK5830",
+    "year": "2023"
+  },
+  {
+    "title": "Business Research Methods in Marketing",
+    "code": "MARK8995",
+    "year": "2023"
+  },
+  {
+    "title": "Research Seminar in Marketing",
+    "code": "MARK8996",
+    "year": "2023"
+  },
+  {
+    "title": "Number Theory",
+    "code": "MATH3431",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Mathematics Project A",
+    "code": "MATH5005",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Mathematics Project B",
+    "code": "MATH5006",
+    "year": "2023"
+  },
+  {
+    "title": "Optimization",
+    "code": "MATH5165",
+    "year": "2023"
+  },
+  {
+    "title": "Linear and Discrete Optimization Modelling",
+    "code": "MATH5171",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Applied Mathematics A",
+    "code": "MATH5175",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Applied Mathematics B",
+    "code": "MATH5185",
+    "year": "2023"
+  },
+  {
+    "title": "Mathematical Optimization for Data Science",
+    "code": "MATH5191",
+    "year": "2023"
+  },
+  {
+    "title": "Dynamical Systems and Chaos",
+    "code": "MATH5201",
+    "year": "2023"
+  },
+  {
+    "title": "Physical Oceanography Research Project",
+    "code": "MATH5207",
+    "year": "2023"
+  },
+  {
+    "title": "Prediction and Inverse Modelling",
+    "code": "MATH5231",
+    "year": "2023"
+  },
+  {
+    "title": "Environmental Data Science and Statistics",
+    "code": "MATH5271",
+    "year": "2023"
+  },
+  {
+    "title": "Fluids, Oceans and Climate",
+    "code": "MATH5285",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Applied Mathematics D",
+    "code": "MATH5295",
+    "year": "2023"
+  },
+  {
+    "title": "Computational Mathematics for Science and Engineering",
+    "code": "MATH5305",
+    "year": "2023"
+  },
+  {
+    "title": "Computational Mathematics for Finance",
+    "code": "MATH5335",
+    "year": "2023"
+  },
+  {
+    "title": "Stochastic Differential Equations: Theory, Applications, and Numerical Methods",
+    "code": "MATH5361",
+    "year": "2023"
+  },
+  {
+    "title": "Numerical Linear Algebra",
+    "code": "MATH5371",
+    "year": "2023"
+  },
+  {
+    "title": "Graph Theory",
+    "code": "MATH5425",
+    "year": "2023"
+  },
+  {
+    "title": "Combinatorics",
+    "code": "MATH5505",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Pure Mathematics A",
+    "code": "MATH5515",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Pure Mathematics B",
+    "code": "MATH5525",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Pure Mathematics C",
+    "code": "MATH5535",
+    "year": "2023"
+  },
+  {
+    "title": "Functional Analysis",
+    "code": "MATH5605",
+    "year": "2023"
+  },
+  {
+    "title": "Banach and Operator Algebras",
+    "code": "MATH5615",
+    "year": "2023"
+  },
+  {
+    "title": "Number Theory",
+    "code": "MATH5645",
+    "year": "2023"
+  },
+  {
+    "title": "Algebraic Topology",
+    "code": "MATH5665",
+    "year": "2023"
+  },
+  {
+    "title": "Modern Differential Geometry and Topology",
+    "code": "MATH5700",
+    "year": "2023"
+  },
+  {
+    "title": "Modern Analysis",
+    "code": "MATH5705",
+    "year": "2023"
+  },
+  {
+    "title": "Modern Algebra",
+    "code": "MATH5706",
+    "year": "2023"
+  },
+  {
+    "title": "Harmonic Analysis",
+    "code": "MATH5715",
+    "year": "2023"
+  },
+  {
+    "title": "Galois Theory",
+    "code": "MATH5725",
+    "year": "2023"
+  },
+  {
+    "title": "Modules and Representation Theory",
+    "code": "MATH5735",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Statistics",
+    "code": "MATH5805",
+    "year": "2023"
+  },
+  {
+    "title": "Applied Regression Analysis",
+    "code": "MATH5806",
+    "year": "2023"
+  },
+  {
+    "title": "Continuous Time Financial Modelling",
+    "code": "MATH5816",
+    "year": "2023"
+  },
+  {
+    "title": "Measure, Integration and Probability",
+    "code": "MATH5825",
+    "year": "2023"
+  },
+  {
+    "title": "Statistical Methods in Epidemiology",
+    "code": "MATH5826",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Stochastic Processes",
+    "code": "MATH5835",
+    "year": "2023"
+  },
+  {
+    "title": "Data Mining and its Business Applications",
+    "code": "MATH5836",
+    "year": "2023"
+  },
+  {
+    "title": "Time Series",
+    "code": "MATH5845",
+    "year": "2023"
+  },
+  {
+    "title": "Introduction to Probability and Stochastic Processes",
+    "code": "MATH5846",
+    "year": "2023"
+  },
+  {
+    "title": "Multivariate Analysis",
+    "code": "MATH5855",
+    "year": "2023"
+  },
+  {
+    "title": "Introduction to Statistics and Statistical Computations",
+    "code": "MATH5856",
+    "year": "2023"
+  },
+  {
+    "title": "Bootstrap and Other Resampling Methods",
+    "code": "MATH5868",
+    "year": "2023"
+  },
+  {
+    "title": "Longitudinal Data Analysis",
+    "code": "MATH5885",
+    "year": "2023"
+  },
+  {
+    "title": "Nonparametric Statistics",
+    "code": "MATH5895",
+    "year": "2023"
+  },
+  {
+    "title": "Stochastic Processes",
+    "code": "MATH5901",
+    "year": "2023"
+  },
+  {
+    "title": "Statistical Inference",
+    "code": "MATH5905",
+    "year": "2023"
+  },
+  {
+    "title": "Design & Analysis of Clinical Trials",
+    "code": "MATH5906",
+    "year": "2023"
+  },
+  {
+    "title": "Survival Analysis",
+    "code": "MATH5916",
+    "year": "2023"
+  },
+  {
+    "title": "Project",
+    "code": "MATH5925",
+    "year": "2023"
+  },
+  {
+    "title": "Categorical Data Analysis",
+    "code": "MATH5945",
+    "year": "2023"
+  },
+  {
+    "title": "Bayesian Inference and Computation",
+    "code": "MATH5960",
+    "year": "2023"
+  },
+  {
+    "title": "Discrete Time Financial Modelling",
+    "code": "MATH5965",
+    "year": "2023"
+  },
+  {
+    "title": "Introduction to Stochastic Analysis",
+    "code": "MATH5975",
+    "year": "2023"
+  },
+  {
+    "title": "Term Structure Modelling",
+    "code": "MATH5985",
+    "year": "2023"
+  },
+  {
+    "title": "Biomathematics",
+    "code": "MATH6781",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals of Materials Processing",
+    "code": "MATS6001",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals of Materials Design",
+    "code": "MATS6002",
+    "year": "2023"
+  },
+  {
+    "title": "Presentation Skills for Materials Technology",
+    "code": "MATS6003",
+    "year": "2023"
+  },
+  {
+    "title": "Materials Industry Management",
+    "code": "MATS6004",
+    "year": "2023"
+  },
+  {
+    "title": "Recycling of Materials",
+    "code": "MATS6006",
+    "year": "2023"
+  },
+  {
+    "title": "Sustainable Materials Engineering",
+    "code": "MATS6007",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Functional Materials",
+    "code": "MATS6008",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Alloys",
+    "code": "MATS6009",
+    "year": "2023"
+  },
+  {
+    "title": "Thermodynamics and Phase Equilibria",
+    "code": "MATS6101",
+    "year": "2023"
+  },
+  {
+    "title": "Kinetics and Phase Transformations",
+    "code": "MATS6102",
+    "year": "2023"
+  },
+  {
+    "title": "Physical Properties of Materials",
+    "code": "MATS6104",
+    "year": "2023"
+  },
+  {
+    "title": "Chemical Properties of Materials",
+    "code": "MATS6105",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanical Properties of Materials",
+    "code": "MATS6106",
+    "year": "2023"
+  },
+  {
+    "title": "Thermal Properties of Ceramics",
+    "code": "MATS6107",
+    "year": "2023"
+  },
+  {
+    "title": "Functional Properties of Materials",
+    "code": "MATS6108",
+    "year": "2023"
+  },
+  {
+    "title": "Polymer Materials Science",
+    "code": "MATS6109",
+    "year": "2023"
+  },
+  {
+    "title": "Computational Materials Science",
+    "code": "MATS6110",
+    "year": "2023"
+  },
+  {
+    "title": "Processes in Materials Engineering",
+    "code": "MATS6111",
+    "year": "2023"
+  },
+  {
+    "title": "Characterisation of Materials",
+    "code": "MATS6112",
+    "year": "2023"
+  },
+  {
+    "title": "Research Project",
+    "code": "MATS6113",
+    "year": "2023"
+  },
+  {
+    "title": "Research Project A",
+    "code": "MATS6114",
+    "year": "2023"
+  },
+  {
+    "title": "Entrepreneurship and Commercialisation",
+    "code": "MATS9010",
+    "year": "2023"
+  },
+  {
+    "title": "Executive Accelerator",
+    "code": "MBAE7501",
+    "year": "2023"
+  },
+  {
+    "title": "Executive Strategy: Growth and Innovation",
+    "code": "MBAE7502",
+    "year": "2023"
+  },
+  {
+    "title": "Executive Strategy: Disruption and Transformation",
+    "code": "MBAE7503",
+    "year": "2023"
+  },
+  {
+    "title": "Executive Leadership Immersion",
+    "code": "MBAE7504",
+    "year": "2023"
+  },
+  {
+    "title": "Understanding Contemporary Media",
+    "code": "MDIA5000",
+    "year": "2023"
+  },
+  {
+    "title": "Writing for Media",
+    "code": "MDIA5001",
+    "year": "2023"
+  },
+  {
+    "title": "Multiplatform and Audiovisual Journalism",
+    "code": "MDIA5002",
+    "year": "2023"
+  },
+  {
+    "title": "Social Media Campaigning",
+    "code": "MDIA5003",
+    "year": "2023"
+  },
+  {
+    "title": "Media Relations",
+    "code": "MDIA5004",
+    "year": "2023"
+  },
+  {
+    "title": "Sports, Media and Culture",
+    "code": "MDIA5005",
+    "year": "2023"
+  },
+  {
+    "title": "Feature Writing",
+    "code": "MDIA5006",
+    "year": "2023"
+  },
+  {
+    "title": "Media Ethics and Law",
+    "code": "MDIA5007",
+    "year": "2023"
+  },
+  {
+    "title": "Media Research Project",
+    "code": "MDIA5008",
+    "year": "2023"
+  },
+  {
+    "title": "Philosophies of Journalism",
+    "code": "MDIA5009",
+    "year": "2023"
+  },
+  {
+    "title": "Literary and Narrative Journalism Practice",
+    "code": "MDIA5010",
+    "year": "2023"
+  },
+  {
+    "title": "Professional Media Practices: Creating, Publishing and Publicising Digital Journalism",
+    "code": "MDIA5011",
+    "year": "2023"
+  },
+  {
+    "title": "Advertising and Creativity",
+    "code": "MDIA5021",
+    "year": "2023"
+  },
+  {
+    "title": "Organisational Communication",
+    "code": "MDIA5022",
+    "year": "2023"
+  },
+  {
+    "title": "Public Relations Theory and Practice",
+    "code": "MDIA5023",
+    "year": "2023"
+  },
+  {
+    "title": "Communication Strategies",
+    "code": "MDIA5024",
+    "year": "2023"
+  },
+  {
+    "title": "Understanding Digital Cultures",
+    "code": "MDIA5027",
+    "year": "2023"
+  },
+  {
+    "title": "Critical Perspectives in Communication",
+    "code": "MDIA5028",
+    "year": "2023"
+  },
+  {
+    "title": " Advertising Theory and Practice",
+    "code": "MDIA5029",
+    "year": "2023"
+  },
+  {
+    "title": "Brand Cultures",
+    "code": "MDIA5030",
+    "year": "2023"
+  },
+  {
+    "title": "Research in Practice",
+    "code": "MDIA5031",
+    "year": "2023"
+  },
+  {
+    "title": "From Text to Talk: Finding Your Voice",
+    "code": "MDIA5032",
+    "year": "2023"
+  },
+  {
+    "title": "Advocacy, Representation, Practice",
+    "code": "MDIA5033",
+    "year": "2023"
+  },
+  {
+    "title": "Industry Internship",
+    "code": "MDIA5100",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals and Design of Electrochemical Energy Storage Systems",
+    "code": "MECH3700",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanical Design 2",
+    "code": "MECH4100",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamental and Advanced Vibration Analysis",
+    "code": "MECH4305",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Mechanics 3",
+    "code": "MECH4320",
+    "year": "2023"
+  },
+  {
+    "title": "Computational Fluid Dynamics",
+    "code": "MECH4620",
+    "year": "2023"
+  },
+  {
+    "title": "Refrigeration and Air Conditioning 1",
+    "code": "MECH4880",
+    "year": "2023"
+  },
+  {
+    "title": "Mechanics of Fracture and Fatigue",
+    "code": "MECH4900",
+    "year": "2023"
+  },
+  {
+    "title": "ME Project A",
+    "code": "MECH9011",
+    "year": "2023"
+  },
+  {
+    "title": "ME Project B",
+    "code": "MECH9012",
+    "year": "2023"
+  },
+  {
+    "title": "Fundamentals of Acoustics & Noise",
+    "code": "MECH9325",
+    "year": "2023"
+  },
+  {
+    "title": "Composite Materials and Mechanics",
+    "code": "MECH9420",
+    "year": "2023"
+  },
+  {
+    "title": "Applied Bio and Microfluidics",
+    "code": "MECH9650",
+    "year": "2023"
+  },
+  {
+    "title": "Solar Thermal Energy Design",
+    "code": "MECH9720",
+    "year": "2023"
+  },
+  {
+    "title": "Automobile Engine Technology",
+    "code": "MECH9761",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topic in Mechanical Engineering",
+    "code": "MECH9910",
+    "year": "2023"
+  },
+  {
+    "title": "Sedimentary and Energy Resources Geology",
+    "code": "MERE5001",
+    "year": "2023"
+  },
+  {
+    "title": "Seismic Imaging",
+    "code": "MERE5002",
+    "year": "2023"
+  },
+  {
+    "title": "Sedimentary and Energy Resources Geology",
+    "code": "MERE6001",
+    "year": "2023"
+  },
+  {
+    "title": "Seismic Imaging",
+    "code": "MERE6002",
+    "year": "2023"
+  },
+  {
+    "title": "Data Analytics and Automated Technologies for Minerals and Energy Resources",
+    "code": "MERE8810",
+    "year": "2023"
+  },
+  {
+    "title": "Masters Project A",
+    "code": "MERE9451",
+    "year": "2023"
+  },
+  {
+    "title": "Masters Project B",
+    "code": "MERE9452",
+    "year": "2023"
+  },
+  {
+    "title": "Masters Project C",
+    "code": "MERE9453",
+    "year": "2023"
+  },
+  {
+    "title": "Empirical Techniques and Applications in Finance",
+    "code": "MFIN6201",
+    "year": "2023"
+  },
+  {
+    "title": "Financial Risk Management for Financial Institutions",
+    "code": "MFIN6205",
+    "year": "2023"
+  },
+  {
+    "title": "Empirical Studies in Finance",
+    "code": "MFIN6210",
+    "year": "2023"
+  },
+  {
+    "title": "Financial Theory and Policy",
+    "code": "MFIN6214",
+    "year": "2023"
+  },
+  {
+    "title": "Responsible Business Professionalism",
+    "code": "MGMT5050",
+    "year": "2023"
+  },
+  {
+    "title": "Global Business Environment",
+    "code": "MGMT5601",
+    "year": "2023"
+  },
+  {
+    "title": "Cross-Cultural Management",
+    "code": "MGMT5602",
+    "year": "2023"
+  },
+  {
+    "title": "Global Business Strategy",
+    "code": "MGMT5603",
+    "year": "2023"
+  },
+  {
+    "title": "Integrative Cases in International Business",
+    "code": "MGMT5610",
+    "year": "2023"
+  },
+  {
+    "title": "Entrepreneurship and New Venture Management",
+    "code": "MGMT5611",
+    "year": "2023"
+  },
+  {
+    "title": " Managing Global Value Chains",
+    "code": "MGMT5613",
+    "year": "2023"
+  },
+  {
+    "title": "Global Employment Relations",
+    "code": "MGMT5701",
+    "year": "2023"
+  },
+  {
+    "title": "Managing and Leading People",
+    "code": "MGMT5710",
+    "year": "2023"
+  },
+  {
+    "title": "Technology, Management and Innovation",
+    "code": "MGMT5800",
+    "year": "2023"
+  },
+  {
+    "title": "Business Innovation",
+    "code": "MGMT5803",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Organisational Change",
+    "code": "MGMT5904",
+    "year": "2023"
+  },
+  {
+    "title": "Organisations and People in Context",
+    "code": "MGMT5906",
+    "year": "2023"
+  },
+  {
+    "title": "Human Resource Management",
+    "code": "MGMT5907",
+    "year": "2023"
+  },
+  {
+    "title": "Strategic Human Resource Management",
+    "code": "MGMT5908",
+    "year": "2023"
+  },
+  {
+    "title": "Negotiating in Global Context",
+    "code": "MGMT5912",
+    "year": "2023"
+  },
+  {
+    "title": "Human Capital Analytics",
+    "code": "MGMT5930",
+    "year": "2023"
+  },
+  {
+    "title": "Career Management Skills",
+    "code": "MGMT5940",
+    "year": "2023"
+  },
+  {
+    "title": "International Human Resource Management",
+    "code": "MGMT5949",
+    "year": "2023"
+  },
+  {
+    "title": "Managing Organisational Risk in Global Context",
+    "code": "MGMT6005",
+    "year": "2023"
+  },
+  {
+    "title": "Marine Microbiology",
+    "code": "MICR9071",
+    "year": "2023"
+  },
   {
     "title": "Fundamentals of Rock Behaviour for Underground Mining",
     "code": "MINE5010",
@@ -264,6 +3054,361 @@
   {
     "title": "Mine Ventilation Practices",
     "code": "MINE9922",
+    "year": "2023"
+  },
+  {
+    "title": "Additive Manufacturing",
+    "code": "MMAN4200",
+    "year": "2023"
+  },
+  {
+    "title": "Engineering Management",
+    "code": "MMAN4400",
+    "year": "2023"
+  },
+  {
+    "title": "Finite Element Methods",
+    "code": "MMAN4410",
+    "year": "2023"
+  },
+  {
+    "title": "Master of Engineering Science Project A",
+    "code": "MMAN9001",
+    "year": "2023"
+  },
+  {
+    "title": "Master of Engineering Science Project B",
+    "code": "MMAN9002",
+    "year": "2023"
+  },
+  {
+    "title": "Masters Project A",
+    "code": "MMAN9451",
+    "year": "2023"
+  },
+  {
+    "title": "Masters Project B",
+    "code": "MMAN9452",
+    "year": "2023"
+  },
+  {
+    "title": "Masters Project C",
+    "code": "MMAN9453",
+    "year": "2023"
+  },
+  {
+    "title": "Foundations of Management",
+    "code": "MNGT5095",
+    "year": "2023"
+  },
+  {
+    "title": "Operationalising Strategy",
+    "code": "MNGT5180",
+    "year": "2023"
+  },
+  {
+    "title": "Economics in Management Practice",
+    "code": "MNGT5201",
+    "year": "2023"
+  },
+  {
+    "title": "Entrepreneurship and Innovation",
+    "code": "MNGT5202",
+    "year": "2023"
+  },
+  {
+    "title": "Entrepreneurship from the Inside",
+    "code": "MNGT5203",
+    "year": "2023"
+  },
+  {
+    "title": "Accounting and Financial Management",
+    "code": "MNGT5211",
+    "year": "2023"
+  },
+  {
+    "title": "Corporate Finance",
+    "code": "MNGT5221",
+    "year": "2023"
+  },
+  {
+    "title": "Data Analysis and Statistical Modelling for Business",
+    "code": "MNGT5232",
+    "year": "2023"
+  },
+  {
+    "title": "Data Analytics and Decision-making",
+    "code": "MNGT5234",
+    "year": "2023"
+  },
+  {
+    "title": "Marketing Management",
+    "code": "MNGT5251",
+    "year": "2023"
+  },
+  {
+    "title": "Managing People and Organisations",
+    "code": "MNGT5272",
+    "year": "2023"
+  },
+  {
+    "title": "Strategy",
+    "code": "MNGT5282",
+    "year": "2023"
+  },
+  {
+    "title": "Financial Statement Analysis",
+    "code": "MNGT5312",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Managerial Finance",
+    "code": "MNGT5321",
+    "year": "2023"
+  },
+  {
+    "title": "Venture Capital Finance",
+    "code": "MNGT5322",
+    "year": "2023"
+  },
+  {
+    "title": "International Finance",
+    "code": "MNGT5325",
+    "year": "2023"
+  },
+  {
+    "title": "Managerial Decision Making",
+    "code": "MNGT5374",
+    "year": "2023"
+  },
+  {
+    "title": "Negotiations and Strategy",
+    "code": "MNGT5388",
+    "year": "2023"
+  },
+  {
+    "title": "Strategies for Growth",
+    "code": "MNGT5395",
+    "year": "2023"
+  },
+  {
+    "title": "Quantitative Business Modelling for Managers",
+    "code": "MNGT5520",
+    "year": "2023"
+  },
+  {
+    "title": "Financial Strategy",
+    "code": "MNGT5521",
+    "year": "2023"
+  },
+  {
+    "title": "Mergers and Acquisitions",
+    "code": "MNGT5522",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Topics in Management",
+    "code": "MNGT5541",
+    "year": "2023"
+  },
+  {
+    "title": "Business Sustainability",
+    "code": "MNGT5542",
+    "year": "2023"
+  },
+  {
+    "title": "Special Topics in Management",
+    "code": "MNGT5543",
+    "year": "2023"
+  },
+  {
+    "title": "Doing Sustainable Business in Australia",
+    "code": "MNGT5583",
+    "year": "2023"
+  },
+  {
+    "title": "Individual Study in Management",
+    "code": "MNGT5585",
+    "year": "2023"
+  },
+  {
+    "title": "Extension Research Project",
+    "code": "MNGT5587",
+    "year": "2023"
+  },
+  {
+    "title": "Strategic Consulting Projects",
+    "code": "MNGT5589",
+    "year": "2023"
+  },
+  {
+    "title": "Work Integrated Learning 12uoc",
+    "code": "MNGT5590",
+    "year": "2023"
+  },
+  {
+    "title": "Extension Research Project ",
+    "code": "MNGT5594",
+    "year": "2023"
+  },
+  {
+    "title": "Work Integrated Learning ",
+    "code": "MNGT5595",
+    "year": "2023"
+  },
+  {
+    "title": "Growth",
+    "code": "MNGT7497",
+    "year": "2023"
+  },
+  {
+    "title": "Transformation",
+    "code": "MNGT7498",
+    "year": "2023"
+  },
+  {
+    "title": "Research and Theories of Translation and Interpreting",
+    "code": "MODL5100",
+    "year": "2023"
+  },
+  {
+    "title": "Interpreting in Legal Settings",
+    "code": "MODL5101",
+    "year": "2023"
+  },
+  {
+    "title": "Interpreting in Community Settings",
+    "code": "MODL5102",
+    "year": "2023"
+  },
+  {
+    "title": "Multimedia Translation",
+    "code": "MODL5103",
+    "year": "2023"
+  },
+  {
+    "title": "Specialised Translation",
+    "code": "MODL5104",
+    "year": "2023"
+  },
+  {
+    "title": "Conference Interpreting",
+    "code": "MODL5105",
+    "year": "2023"
+  },
+  {
+    "title": "Text Analysis for Translation",
+    "code": "MODL5106",
+    "year": "2023"
+  },
+  {
+    "title": "Translation Technology",
+    "code": "MODL5107",
+    "year": "2023"
+  },
+  {
+    "title": "Translation Certification Preparation",
+    "code": "MODL5108",
+    "year": "2023"
+  },
+  {
+    "title": "Community of Practice for Interpreting",
+    "code": "MODL5111",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Translation Technology and Industry Practice",
+    "code": "MODL5112",
+    "year": "2023"
+  },
+  {
+    "title": "Interpreting Certification Preparation",
+    "code": "MODL5113",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Conference Interpreting",
+    "code": "MODL5116",
+    "year": "2023"
+  },
+  {
+    "title": "Interpreting in International Settings",
+    "code": "MODL5117",
+    "year": "2023"
+  },
+  {
+    "title": "Oceanographic Processes",
+    "code": "MSCI5004",
+    "year": "2023"
+  },
+  {
+    "title": "Topics in Marine Biology and Ecology",
+    "code": "MSCI5005",
+    "year": "2023"
+  },
+  {
+    "title": "Topics in Australian Marine Science",
+    "code": "MSCI6681",
+    "year": "2023"
+  },
+  {
+    "title": "Conservation in Aquatic Ecosystems",
+    "code": "MSCI9001",
+    "year": "2023"
+  },
+  {
+    "title": "Advanced Autonomous Systems",
+    "code": "MTRN4010",
+    "year": "2023"
+  },
+  {
+    "title": "Robot Design",
+    "code": "MTRN4110",
+    "year": "2023"
+  },
+  {
+    "title": "Robotics",
+    "code": "MTRN4230",
+    "year": "2023"
+  },
+  {
+    "title": "Robotics Project",
+    "code": "MTRN4231",
+    "year": "2023"
+  },
+  {
+    "title": "Control of Robotic Systems",
+    "code": "MTRN9400",
+    "year": "2023"
+  },
+  {
+    "title": "Drivers of Urban Change",
+    "code": "MUPS0001",
+    "year": "2023"
+  },
+  {
+    "title": "Strategic Urban Policy",
+    "code": "MUPS0002",
+    "year": "2023"
+  },
+  {
+    "title": "Decision Making and Governance",
+    "code": "MUPS0003",
+    "year": "2023"
+  },
+  {
+    "title": "Development Economics and Finance",
+    "code": "MUPS0004",
+    "year": "2023"
+  },
+  {
+    "title": "Research for Evidence-Based Policy",
+    "code": "MUPS0007",
+    "year": "2023"
+  },
+  {
+    "title": "Urban Leadership, Politics and Ethics",
+    "code": "MUPS0009",
     "year": "2023"
   }
 ]

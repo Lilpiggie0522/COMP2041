@@ -5,7 +5,13 @@ PREFIX=$2
 if test "$ARGS" -ne 2; then
     echo "Usage: $0 <year> <course-prefix>" >& 2
     exit 1
-elif [ "$YEAR" -lt 2019 ] || [ "$YEAR" -gt 2023 ]; then
+elif ! (echo "$YEAR" | grep -Eq '^[0-9]{4}$') 2> /dev/null; then
+    echo "$0: argument 1 must be an integer between 2019 and 2023" >& 2
+    exit 1
+elif [ "$YEAR" -lt 2019 ] 2> /dev/null; then
+    echo "$0: argument 1 must be an integer between 2019 and 2023" >& 2
+    exit 1
+elif  [ "$YEAR" -gt 2023 ] 2> /dev/null; then
     echo "$0: argument 1 must be an integer between 2019 and 2023" >& 2
     exit 1
 else
@@ -14,11 +20,11 @@ else
     < raw.json jq -c '.[]'  |
     sed 's/\"//g' |
     cut -d':' -f2,3,4 |
+    sed -E 's/,year.*//g' |
     sed -E 's/code://g' |
-    sed -E 's/year://g' |
-    sed -E 's/(.*),(.*),(.*)$/\2,\1,\3/' |
-    cut -d',' -f1,2 |
-    sed -E 's/,/ /g' |
+    sed -E 's/(.*),(.*)$/\2,\1/' |
+    sed -E 's/[ ]{2,}/ /g' |
+    sed -E 's/,/ /' |
     sort |
     uniq
 fi
