@@ -1,0 +1,646 @@
+MANF3100 Product and Manufacturing Design
+MANF3510 Process Technology and Automation
+MANF4100 Design and Analysis of Product-Process Systems
+MANF4150 Design of Intelligent Manufacturing Systems
+MANF4430 Reliability and Maintenance Engineering
+MANF4611 Process Modelling and Simulation
+MANF6860 Strategic Manufacturing Management
+MANF9400 Industrial Management
+MANF9420 Operations and Supply Chain Management in Engineering
+MANF9472 Production Planning and Control
+MANF9543 Computer Aided Design / Computer Aided Manufacture
+MANF9544 Concurrent Product and Process Design
+MANF9550 Robotic 3D Printing
+MARK2012 Marketing Fundamentals
+MARK2051 Consumer Behaviour
+MARK2052 Marketing Research
+MARK2053 Marketing Communications and Promotions Management
+MARK2055 Service Marketing and Management
+MARK2060 Event Management and Marketing
+MARK2071 International and Global Marketing
+MARK2085 Consumer Centric Innovation
+MARK2101 Industry Placement 1
+MARK3054 Marketing Analytics and Big Data
+MARK3081 Distribution Strategy and Retail Channels
+MARK3082 Strategic Marketing
+MARK3085 Digital Marketing and Web Analytics
+MARK3087 Customer Analytics
+MARK3088 Product Analytics
+MARK3089 Pricing Analytics
+MARK3091 New Product and New Service Development
+MARK3092 Brand Management
+MARK3202 Industry Placement 2
+MARK3303 Industry Placement 3
+MARK4210 Business Research Methods in Marketing
+MARK4211 Research Seminar in Marketing
+MARK4212 Quantitative Methods and Models in Marketing
+MARK4214 Seminar in Consumer Behaviour
+MARK4300 Thesis (Marketing) A
+MARK4301 Thesis (Marketing) B
+MARK4302 Thesis (Marketing) C
+MARK5700 Elements of Marketing
+MARK5800 Consumer Behaviour
+MARK5810 Marketing Communication and Promotion
+MARK5811 Applied Marketing Research
+MARK5812 Distribution, Retail Channels and Logistics
+MARK5813 New Product and Service Development
+MARK5814 Digital Marketing
+MARK5816 Services Marketing Management
+MARK5820 Events Management and Marketing
+MARK5821 Brand Management
+MARK5822 Marketing Analytics Tools
+MARK5824 Sales Strategy and Implementation
+MARK5825 Global Marketing Strategy
+MARK5826 Product Analytics
+MARK5827 Customer Analytics
+MARK5828 Advertising Analytics
+MARK5829 Pricing Analytics
+MARK5830 Marketing Analytics Project
+MARK8995 Business Research Methods in Marketing
+MARK8996 Research Seminar in Marketing
+MATH1011 Fundamentals of Mathematics B
+MATH1031 Mathematics for Life Sciences
+MATH1041 Statistics for Life and Social Sciences
+MATH1081 Discrete Mathematics
+MATH1099 Industrial Placement 1 (Co-Op)
+MATH1131 Mathematics 1A
+MATH1141 Higher Mathematics 1A
+MATH1151 Mathematics for Actuarial Studies and Finance 1A
+MATH1231 Mathematics 1B
+MATH1241 Higher Mathematics 1B
+MATH1251 Mathematics for Actuarial Studies and Finance 1B
+MATH2011 Several Variable Calculus
+MATH2018 Engineering Mathematics 2D
+MATH2019 Engineering Mathematics 2E
+MATH2069 Mathematics 2A
+MATH2089 Numerical Methods and Statistics
+MATH2099 Mathematics 2B
+MATH2111 Higher Several Variable Calculus
+MATH2121 Theory and Applications of Differential Equations
+MATH2221 Higher Theory and Applications of Differential Equations
+MATH2241 Introduction to Atmosphere and Ocean Dynamics
+MATH2301 Mathematical Computing
+MATH2400 Finite Mathematics
+MATH2501 Linear Algebra
+MATH2521 Complex Analysis
+MATH2601 Higher Linear Algebra
+MATH2621 Higher Complex Analysis
+MATH2701 Abstract Algebra and Fundamental Analysis
+MATH2801 Theory of Statistics
+MATH2831 Linear Models
+MATH2859 Probability, Statistics and Information
+MATH2871 Data Management for Statistical Analysis
+MATH2901 Higher Theory of Statistics
+MATH2931 Higher Linear Models
+MATH3000 Mathematics/Statistics Project
+MATH3001 Mathematics/Statistics Project
+MATH3002 Mathematics/Statistics Project
+MATH3041 Mathematical Modelling for Real World Systems
+MATH3051 Applied Real and Functional Analysis
+MATH3101 Computational Mathematics for Science and Engineering
+MATH3121 Mathematical Methods and Partial Differential Equations
+MATH3161 Optimization
+MATH3171 Linear and Discrete Optimization Modelling
+MATH3191 Mathematical Optimization for Data Science
+MATH3201 Dynamical Systems and Chaos
+MATH3261 Fluids, Oceans and Climate
+MATH3311 Computational Mathematics for Finance
+MATH3361 Stochastic Differential Equations: Theory, Applications, and Numerical Methods
+MATH3371 Numerical Linear Algebra
+MATH3411 Information, Codes and Ciphers
+MATH3431 Number Theory
+MATH3511 Transformations, Groups and Geometry
+MATH3521 Algebraic Techniques in Number Theory
+MATH3531 Topology and Differential Geometry
+MATH3560 History of Mathematics
+MATH3570 Foundations of Calculus
+MATH3611 Higher Analysis
+MATH3701 Higher Topology and Differential Geometry
+MATH3711 Higher Algebra
+MATH3801 Probability and Stochastic Processes
+MATH3811 Statistical Inference
+MATH3821 Statistical Modelling and Computing
+MATH3831 Statistical Methods in Social and Market Research
+MATH3841 Statistical Analysis of Dependent Data
+MATH3851 Experimental Design and Categorical Data
+MATH3856 Introduction to Data and Machine Learning 
+MATH3871 Bayesian Inference and Computation
+MATH3901 Higher Probability and Stochastic Processes
+MATH3911 Higher Statistical Inference
+MATH4001 Mathematics and Statistics Honours Thesis
+MATH5005 Advanced Mathematics Project A
+MATH5006 Advanced Mathematics Project B
+MATH5165 Optimization
+MATH5171 Linear and Discrete Optimization Modelling
+MATH5175 Special Topics in Applied Mathematics A
+MATH5185 Special Topics in Applied Mathematics B
+MATH5191 Mathematical Optimization for Data Science
+MATH5201 Dynamical Systems and Chaos
+MATH5207 Physical Oceanography Research Project
+MATH5231 Prediction and Inverse Modelling
+MATH5271 Environmental Data Science and Statistics
+MATH5285 Fluids, Oceans and Climate
+MATH5295 Special Topics in Applied Mathematics D
+MATH5305 Computational Mathematics for Science and Engineering
+MATH5335 Computational Mathematics for Finance
+MATH5361 Stochastic Differential Equations: Theory, Applications, and Numerical Methods
+MATH5371 Numerical Linear Algebra
+MATH5425 Graph Theory
+MATH5505 Combinatorics
+MATH5515 Special Topics in Pure Mathematics A
+MATH5525 Special Topics in Pure Mathematics B
+MATH5535 Special Topics in Pure Mathematics C
+MATH5605 Functional Analysis
+MATH5615 Banach and Operator Algebras
+MATH5645 Number Theory
+MATH5665 Algebraic Topology
+MATH5700 Modern Differential Geometry and Topology
+MATH5705 Modern Analysis
+MATH5706 Modern Algebra
+MATH5715 Harmonic Analysis
+MATH5725 Galois Theory
+MATH5735 Modules and Representation Theory
+MATH5805 Special Topics in Statistics
+MATH5806 Applied Regression Analysis
+MATH5816 Continuous Time Financial Modelling
+MATH5825 Measure, Integration and Probability
+MATH5826 Statistical Methods in Epidemiology
+MATH5835 Advanced Stochastic Processes
+MATH5836 Data Mining and its Business Applications
+MATH5845 Time Series
+MATH5846 Introduction to Probability and Stochastic Processes
+MATH5855 Multivariate Analysis
+MATH5856 Introduction to Statistics and Statistical Computations
+MATH5868 Bootstrap and Other Resampling Methods
+MATH5885 Longitudinal Data Analysis
+MATH5895 Nonparametric Statistics
+MATH5901 Stochastic Processes
+MATH5905 Statistical Inference
+MATH5906 Design & Analysis of Clinical Trials
+MATH5916 Survival Analysis
+MATH5925 Project
+MATH5945 Categorical Data Analysis
+MATH5960 Bayesian Inference and Computation
+MATH5965 Discrete Time Financial Modelling
+MATH5975 Introduction to Stochastic Analysis
+MATH5985 Term Structure Modelling
+MATH6781 Biomathematics
+MATS1101 Engineering Materials and Chemistry
+MATS1110 Introduction to Materials for Engineering Applications
+MATS1192 Design and Application of Materials in Science and Engineering
+MATS2001 Physical Properties of Materials
+MATS2003 Materials Characterisation
+MATS2004 Mechanical Behaviour of Materials
+MATS2005 Introduction to Fluid Flow and Heat Transfer
+MATS2006 Diffusion and Kinetics
+MATS2007 Sustainable Materials Processing
+MATS2008 Thermodynamics and Phase Equilibria
+MATS3001 Micromechanisms of Mechanical Behaviour of Metals
+MATS3002 Fundamentals of Ceramic Processing
+MATS3003 Engineering in Process Metallurgy
+MATS3004 Polymer Science and Engineering 1
+MATS3005 Phase Transformations
+MATS3006 Design and Application of Materials in Science and Engineering 3
+MATS3007 Materials Industry Management
+MATS3199 Materials Science Work Placement 1
+MATS3299 Materials Science Work Placement 2
+MATS4001 Secondary Processing of Metals
+MATS4002 Design and Advanced Ceramics
+MATS4003 Process Metallurgy Advanced
+MATS4004 Fracture Mechanics and Failure Analysis
+MATS4005 Composites and Functional Materials
+MATS4006 Polymer Science and Engineering 2
+MATS4007 Engineered Surfaces to Resist Corrosion and Wear
+MATS4008 Materials Engineering Project
+MATS4100 Materials Engineering Project
+MATS4503 Professional Skills
+MATS4504 Research Training
+MATS4505 Materials Science Honours Project
+MATS5001 Thesis A
+MATS5002 Thesis B
+MATS5003 Advanced Thesis
+MATS6001 Fundamentals of Materials Processing
+MATS6002 Fundamentals of Materials Design
+MATS6003 Presentation Skills for Materials Technology
+MATS6004 Materials Industry Management
+MATS6006 Recycling of Materials
+MATS6007 Sustainable Materials Engineering
+MATS6008 Advanced Functional Materials
+MATS6009 Advanced Alloys
+MATS6101 Thermodynamics and Phase Equilibria
+MATS6102 Kinetics and Phase Transformations
+MATS6104 Physical Properties of Materials
+MATS6105 Chemical Properties of Materials
+MATS6106 Mechanical Properties of Materials
+MATS6107 Thermal Properties of Ceramics
+MATS6108 Functional Properties of Materials
+MATS6109 Polymer Materials Science
+MATS6110 Computational Materials Science
+MATS6111 Processes in Materials Engineering
+MATS6112 Characterisation of Materials
+MATS6113 Research Project
+MATS6114 Research Project A
+MATS9010 Entrepreneurship and Commercialisation
+MBAE7501 Executive Accelerator
+MBAE7502 Executive Strategy: Growth and Innovation
+MBAE7503 Executive Strategy: Disruption and Transformation
+MBAE7504 Executive Leadership Immersion
+MDCN8000 Medicine Honours
+MDCN8001 Medicine Honours
+MDCN8888 Medicine Honours
+MDCN8889 Medicine Honours
+MDIA1002 Journalistic Voices and Values
+MDIA1003 Public Relations and Advertising Foundations
+MDIA1004 News Fundamentals
+MDIA1005 Creative Sound Technologies
+MDIA1007 Digital Entrepreneurship
+MDIA1008 Engaging Audiences
+MDIA1090 Media, Culture and Everyday Life
+MDIA1091 Media, Society, Politics
+MDIA1092 Working with Data
+MDIA2000 Animating Media
+MDIA2002 Opinion Journalism
+MDIA2003 Features Journalism
+MDIA2005 Creative Advertising
+MDIA2006 Communication Strategies
+MDIA2007 Political Communication
+MDIA2008 Broadcast Journalism
+MDIA2009 Communication Principles
+MDIA2010 Serious Games
+MDIA2011 Corporate Communication
+MDIA2012 Promotional Cultures
+MDIA2013 Making Virtual Reality Documentaries
+MDIA2014 Time, Space, Experience
+MDIA2091 Mobile Cultures
+MDIA2092 Transnational Media: Markets, Flows and Cultures
+MDIA2093 Social Media
+MDIA2094 Visual Communication
+MDIA2095 The Networked Self
+MDIA2096 Media and Social Justice
+MDIA3000 Advertising in Action
+MDIA3002 News Analysis and Production
+MDIA3003 Professional Portfolio
+MDIA3004 Independent Production Project
+MDIA3005 Promotion for Social Change
+MDIA3006 Collaborative Client Project
+MDIA3008 Issues and Crisis Communication
+MDIA3009 Building Brands
+MDIA3010 Professional Media Practices: Creating, Publishing and Publicising Digital Journalism
+MDIA3011 Communication Design
+MDIA3012 Public Relations in Practice
+MDIA3090 Media, Culture and Technology Capstone: Media Cultures
+MDIA3091 Media Futures
+MDIA3092 Media in the Asia-Pacific
+MDIA3093 Media Power
+MDIA3096 Media, Climate Crisis, and Extinction in the Anthropocene
+MDIA3097 Current Debates in Media and Culture
+MDIA4000 Media Honours
+MDIA4001 Media Honours
+MDIA4002 Media Honours
+MDIA5000 Understanding Contemporary Media
+MDIA5001 Writing for Media
+MDIA5002 Multiplatform and Audiovisual Journalism
+MDIA5003 Social Media Campaigning
+MDIA5004 Media Relations
+MDIA5005 Sports, Media and Culture
+MDIA5006 Feature Writing
+MDIA5007 Media Ethics and Law
+MDIA5008 Media Research Project
+MDIA5009 Philosophies of Journalism
+MDIA5010 Literary and Narrative Journalism Practice
+MDIA5011 Professional Media Practices: Creating, Publishing and Publicising Digital Journalism
+MDIA5021 Advertising and Creativity
+MDIA5022 Organisational Communication
+MDIA5023 Public Relations Theory and Practice
+MDIA5024 Communication Strategies
+MDIA5027 Understanding Digital Cultures
+MDIA5028 Critical Perspectives in Communication
+MDIA5029 Advertising Theory and Practice
+MDIA5030 Brand Cultures
+MDIA5031 Research in Practice
+MDIA5032 From Text to Talk: Finding Your Voice
+MDIA5033 Advocacy, Representation, Practice
+MDIA5100 Industry Internship
+MECH3110 Mechanical Design 1
+MECH3610 Advanced Thermofluids
+MECH3700 Fundamentals and Design of Electrochemical Energy Storage Systems
+MECH4100 Mechanical Design 2
+MECH4305 Fundamental and Advanced Vibration Analysis
+MECH4320 Engineering Mechanics 3
+MECH4620 Computational Fluid Dynamics
+MECH4880 Refrigeration and Air Conditioning 1
+MECH4900 Mechanics of Fracture and Fatigue
+MECH9011 ME Project A
+MECH9012 ME Project B
+MECH9325 Fundamentals of Acoustics & Noise
+MECH9420 Composite Materials and Mechanics
+MECH9650 Applied Bio and Microfluidics
+MECH9720 Solar Thermal Energy Design
+MECH9761 Automobile Engine Technology
+MECH9910 Special Topic in Mechanical Engineering
+MERE2001 Sedimentary and Energy Resources Geology
+MERE2002 Seismic Imaging
+MERE2810 Mineral Resource Geology & Geophysics
+MERE4951 Research Thesis A
+MERE4952 Research Thesis B
+MERE4953 Research Thesis C
+MERE5001 Sedimentary and Energy Resources Geology
+MERE5002 Seismic Imaging
+MERE6001 Sedimentary and Energy Resources Geology
+MERE6002 Seismic Imaging
+MERE8810 Data Analytics and Automated Technologies for Minerals and Energy Resources
+MERE9451 Masters Project A
+MERE9452 Masters Project B
+MERE9453 Masters Project C
+MFAC1501 Foundations
+MFAC1521 Beginnings, Growth and Development A
+MFAC1522 Beginnings, Growth and Development B
+MFAC1523 Health Maintenance A
+MFAC1524 Health Maintenance B
+MFAC1525 Ageing and Endings A
+MFAC1526 Ageing and Endings B
+MFAC1527 Society and Health
+MFAC1601 Introductory Clinical and Communication Skills
+MFAC2507 Clinical Transition
+MFAC2509 Clinical Skills Refresher
+MFAC2510 Graduate Entry Bridging
+MFAC2511 Phase 2 Portfolio Examination
+MFAC2512 Phase 2 Integrated Clinical Assessment
+MFAC2514 Integrated Clinical Studies 1
+MFAC2515 Integrated Clinical Studies 2
+MFAC2516 Integrated Clinical Studies 3
+MFAC3501 Medicine
+MFAC3502 Surgery
+MFAC3503 Psychiatry
+MFAC3504 Primary Care
+MFAC3505 Obstetrics and Gynaecology
+MFAC3506 Children's Health (Paediatrics)
+MFAC3508 Critical Care
+MFAC3509 Selective
+MFAC3512 Phase 3 Biomedical Sciences Viva
+MFAC3514 Elective
+MFAC3515 Preparation for Internship (PRINT)
+MFAC3522 Phase 3 Portfolio Examination
+MFAC3523 Phase 3 Integrated Clinical Examination
+MFAC4001 Value-Based Health Care in Clinical Practice
+MFAC4888 Independent Learning Project
+MFAC4999 Independent Learning Project (ILP)
+MFIN6201 Empirical Techniques and Applications in Finance
+MFIN6205 Financial Risk Management for Financial Institutions
+MFIN6210 Empirical Studies in Finance
+MFIN6214 Financial Theory and Policy
+MGMT2001 Managing Innovation and Organisational Change
+MGMT2002 Managing Business Communication
+MGMT2004 Managing Organisational Behaviour
+MGMT2010 Innovation and Entrepreneurship
+MGMT2101 International Business and Multinational Operations
+MGMT2102 Managing Across Cultures
+MGMT2106 Comparative Management Systems
+MGMT2705 Industrial Relations
+MGMT2718 Human Resource Management
+MGMT2721 Managing People
+MGMT2725 Career Management
+MGMT2726 Business Ethics and Sustainability
+MGMT3001 Business and Corporate Strategy
+MGMT3004 Solving Complex Strategy and Policy Problems
+MGMT3101 International Business Strategy
+MGMT3102 Asia-Pacific Business
+MGMT3110 Integrative Seminar in Global Business
+MGMT3701 Regulating Work and Employment
+MGMT3702 International Human Resource Management
+MGMT3721 Negotiation Skills
+MGMT3724 Strategic Human Resource Management
+MGMT3728 Managing Pay and Performance
+MGMT3729 Managing Training and Development
+MGMT3730 Human Capital Analytics
+MGMT4101 Contemporary Research Topic
+MGMT4104 Contemporary Research Topic
+MGMT4500 Research Thesis A in International Business
+MGMT4501 Research Thesis B in International Business
+MGMT4738 Thesis (Human Resource Management)
+MGMT4739 Thesis B (Human Resource Management)
+MGMT5050 Responsible Business Professionalism
+MGMT5601 Global Business Environment
+MGMT5602 Cross-Cultural Management
+MGMT5603 Global Business Strategy
+MGMT5610 Integrative Cases in International Business
+MGMT5611 Entrepreneurship and New Venture Management
+MGMT5613 Managing Global Value Chains
+MGMT5701 Global Employment Relations
+MGMT5710 Managing and Leading People
+MGMT5800 Technology, Management and Innovation
+MGMT5803 Business Innovation
+MGMT5904 Managing Organisational Change
+MGMT5906 Organisations and People in Context
+MGMT5907 Human Resource Management
+MGMT5908 Strategic Human Resource Management
+MGMT5912 Negotiating in Global Context
+MGMT5930 Human Capital Analytics
+MGMT5940 Career Management Skills
+MGMT5949 International Human Resource Management
+MGMT6005 Managing Organisational Risk in Global Context
+MICR2011 Microbiology 1
+MICR2012 Microbiology for the Pharmaceutical Sciences
+MICR3061 Viruses and Disease
+MICR3071 Environmental Microbiology
+MICR3621 Microbial Genetics (Advanced)
+MICR9071 Marine Microbiology
+MINE1010 Mineral Resources Engineering
+MINE2820 Minerals Processing
+MINE3220 Resource Estimation
+MINE3230 Mine Planning
+MINE3310 Mining Geomechanics
+MINE3430 Mining Systems
+MINE3510 Mine Ventilation
+MINE3630 Rock Breakage
+MINE3910 Socio-Environmental Aspects of Mining
+MINE4250 Hardrock Mine Design and Feasibility Project
+MINE4310 Mine Geotechnical Engineering
+MINE4450 Mining Research Project II
+MINE4710 Mine Management
+MINE4910 Mining in a Global Environment
+MINE5010 Fundamentals of Rock Behaviour for Underground Mining
+MINE5020 Geotechnical Assessment for Underground Mining
+MINE5030 Mining Excavations in Rock
+MINE5040 Coal Mining Methods, Mine Planning and Applied Geomechanics
+MINE5050 Ground Control Principles and Practice in Underground Coal Mining
+MINE5060 Operational Geotechnical Management (Underground Coal Mining)
+MINE8101 Fundamentals of Mining Engineering
+MINE8115 Mine Processes, Systems and Analysis
+MINE8120 Hazard Identification, Risk and Safety Management in Mining
+MINE8130 Technology Management and Innovation in Mining
+MINE8140 Mining Geomechanics
+MINE8210 Management Systems - Projects, Processes, Contracts, Contractors
+MINE8440 Mining Industry Research Project 1
+MINE8445 Mining Industry Research Project 2
+MINE8680 Geotechnical Data Collection and Analysis
+MINE8690 Mining Geotechnical Project
+MINE8710 Mine Slope Stability
+MINE8720 Numerical Methods in Mine Geomechanics
+MINE8760 Mine Geology and Geophysics for Mining Operations
+MINE8780 Environmental Management for the Mining Industry
+MINE8820 Mineral Processing
+MINE8850 Mine Design and Feasibility
+MINE8860 Drilling, Blasting and Machine Excavation
+MINE8910 Mine Water and Waste Management
+MINE8930 Uranium mining fundamentals
+MINE8940 Mine Slope Monitoring Technologies
+MINE8950 Sustainable Tailings Management
+MINE9100 Mining Design Practice
+MINE9901 Ventilation and Mine Services
+MINE9902 Environmental Contaminants
+MINE9903 Heat in Underground Mines
+MINE9904 Ventilation System Management
+MINE9905 Coal Mine Hazards and Control
+MINE9910 Mine Ventilation
+MINE9920 Spontaneous Combustion and Reactive Ground
+MINE9921 Mine Ventilation Legislation
+MINE9922 Mine Ventilation Practices
+MMAN1130 Design and Manufacturing
+MMAN1300 Engineering Mechanics
+MMAN2130 Design and Manufacturing
+MMAN2300 Engineering Mechanics 2
+MMAN2400 Mechanics of Solids 1
+MMAN2600 Fluid Mechanics
+MMAN2700 Thermodynamics
+MMAN3000 Professional Engineering and Communication
+MMAN3200 Linear Systems and Control
+MMAN3400 Mechanics of Solids 2
+MMAN4010 Thesis A
+MMAN4020 Thesis B
+MMAN4200 Additive Manufacturing
+MMAN4400 Engineering Management
+MMAN4410 Finite Element Methods
+MMAN4951 Research Thesis A
+MMAN4952 Research Thesis B
+MMAN4953 Research Thesis C
+MMAN9001 Master of Engineering Science Project A
+MMAN9002 Master of Engineering Science Project B
+MMAN9451 Masters Project A
+MMAN9452 Masters Project B
+MMAN9453 Masters Project C
+MNGT5095 Foundations of Management
+MNGT5180 Operationalising Strategy
+MNGT5201 Economics in Management Practice
+MNGT5202 Entrepreneurship and Innovation
+MNGT5203 Entrepreneurship from the Inside
+MNGT5211 Accounting and Financial Management
+MNGT5221 Corporate Finance
+MNGT5232 Data Analysis and Statistical Modelling for Business
+MNGT5234 Data Analytics and Decision-making
+MNGT5251 Marketing Management
+MNGT5272 Managing People and Organisations
+MNGT5282 Strategy
+MNGT5312 Financial Statement Analysis
+MNGT5321 Advanced Managerial Finance
+MNGT5322 Venture Capital Finance
+MNGT5325 International Finance
+MNGT5374 Managerial Decision Making
+MNGT5388 Negotiations and Strategy
+MNGT5395 Strategies for Growth
+MNGT5520 Quantitative Business Modelling for Managers
+MNGT5521 Financial Strategy
+MNGT5522 Mergers and Acquisitions
+MNGT5541 Advanced Topics in Management
+MNGT5542 Business Sustainability
+MNGT5543 Special Topics in Management
+MNGT5583 Doing Sustainable Business in Australia
+MNGT5585 Individual Study in Management
+MNGT5587 Extension Research Project
+MNGT5589 Strategic Consulting Projects
+MNGT5590 Work Integrated Learning 12uoc
+MNGT5594 Extension Research Project 
+MNGT5595 Work Integrated Learning 
+MNGT7497 Growth
+MNGT7498 Transformation
+MODL5100 Research and Theories of Translation and Interpreting
+MODL5101 Interpreting in Legal Settings
+MODL5102 Interpreting in Community Settings
+MODL5103 Multimedia Translation
+MODL5104 Specialised Translation
+MODL5105 Conference Interpreting
+MODL5106 Text Analysis for Translation
+MODL5107 Translation Technology
+MODL5108 Translation Certification Preparation
+MODL5111 Community of Practice for Interpreting
+MODL5112 Advanced Translation Technology and Industry Practice
+MODL5113 Interpreting Certification Preparation
+MODL5116 Advanced Conference Interpreting
+MODL5117 Interpreting in International Settings
+MSCI0501 The Marine Environment
+MSCI1001 Introductory Marine Science
+MSCI2060 Coral Reefs in a Changing Climate
+MSCI3001 Physical Oceanography
+MSCI5004 Oceanographic Processes
+MSCI5005 Topics in Marine Biology and Ecology
+MSCI6681 Topics in Australian Marine Science
+MSCI9001 Conservation in Aquatic Ecosystems
+MTRN2500 Computing for Mechatronic Engineers
+MTRN3020 Modelling and Control of Mechatronic Systems
+MTRN3100 Robot Design
+MTRN3500 Computing Applications in Mechatronics Systems
+MTRN4010 Advanced Autonomous Systems
+MTRN4030 Optimisation Methods for Engineering Systems
+MTRN4110 Robot Design
+MTRN4230 Robotics
+MTRN4231 Robotics Project
+MTRN9400 Control of Robotic Systems
+MUPS0001 Drivers of Urban Change
+MUPS0002 Strategic Urban Policy
+MUPS0003 Decision Making and Governance
+MUPS0004 Development Economics and Finance
+MUPS0007 Research for Evidence-Based Policy
+MUPS0009 Urban Leadership, Politics and Ethics
+MUSC1604 Western Music: a Panorama
+MUSC1801 Music Craft 1
+MUSC1802 Music Craft 2
+MUSC1803 Music Craft 3
+MUSC1804 BA Music Craft 1
+MUSC1805 BA Music Craft 2
+MUSC1806 BA Music Craft 3
+MUSC1807 Music Literacies 1
+MUSC1808 Music Literacies 2
+MUSC1901 What's Music About?
+MUSC2113 Film Music
+MUSC2115 Music of the 19th Century
+MUSC2116 Sound, Society and Self in World Music
+MUSC2117 Popular Music: Histories, Grooves, and Texts
+MUSC2602 Materials and Structures of Music 3
+MUSC2603 Materials and Structures of Music 4
+MUSC2703 Performance Laboratory B
+MUSC2706 Music Ensemble
+MUSC2801 Music Performance Styles and Interpretation
+MUSC2802 Music Studio Teaching
+MUSC2803 Creative Sound Technologies
+MUSC2804 Music at the Edge
+MUSC2901 Music Craft 4
+MUSC2902 Music Craft 5
+MUSC2903 Music Craft 6
+MUSC2905 Advanced Musical Literacies
+MUSC3104 Jazz: its Sound and History
+MUSC3105 Psychology of Music
+MUSC3162 Twentieth Century Music
+MUSC3302 Musical Transformations: Orchestration, Arrangement, Transcription and Recomposition
+MUSC3705 Performance Laboratory C
+MUSC3706 Performance Laboratory C (Creative Practice/Music Pedagogy)
+MUSC3801 Creative Projects in Performance and Composition
+MUSC3802 Music Analysis
+MUSC3804 Educating the Musical Novice
+MUSC3805 Electroacoustic Music
+MUSC3806 Immersive Audio
+MUSC3807 MusiCultures
+MUSC3808 Becoming a Performer
+MUSC3809 Advanced Music Craft
+MUSC4009 Music Honours
+MUSC4010 Music Honours
+MUSC4011 Music Honours
+MUSC4013 Music Creative Practice Honours Project
+MUSC4014 Music Creative Practice Honours Project
+MUSC4015 Music Honours Thesis
+MUSC4016 Music Honours Thesis
+MUSC4017 Music Honours Thesis
+MUSC4101 Critical Investigations in Music
+MUSC4102 Critical Practice in Music
+MUSC4103 Advanced Studies in Music History and Culture 1
+MUSC4104 Advanced Studies in Music History & Culture 2
+MUSC4705 Performance Laboratory D (Music Creative Practice)

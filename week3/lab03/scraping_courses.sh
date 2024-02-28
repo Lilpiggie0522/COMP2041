@@ -18,15 +18,17 @@ else
     curl -sL https://www.handbook.unsw.edu.au/api/content/render/false/query/+unsw_psubject.implementationYear:"$YEAR"%20+unsw_psubject.studyLevel:undergraduate%20+unsw_psubject.educationalArea:"$PREFIX"*%20+unsw_psubject.active:1%20+unsw_psubject.studyLevelValue:ugrd%20+deleted:false%20+working:true%20+live:true/orderby/unsw_psubject.code%20asc/limit/10000/offset/0 | jq '[.contentlets | .[] | {title: .title, code: .code, year: .implementationYear}]' > raw.json;
     curl -sL https://www.handbook.unsw.edu.au/api/content/render/false/query/+unsw_psubject.implementationYear:"$YEAR"%20+unsw_psubject.studyLevel:postgraduate%20+unsw_psubject.educationalArea:"$PREFIX"*%20+unsw_psubject.active:1%20+unsw_psubject.studyLevelValue:pgrd%20+deleted:false%20+working:true%20+live:true/orderby/unsw_psubject.code%20asc/limit/10000/offset/0 | jq '[.contentlets | .[] | {title: .title, code: .code, year: .implementationYear}]' >> raw.json
     < raw.json jq -c '.[]'  |
+    sed -E 's/ / /g' |
     sed 's/\"//g' |
     cut -d':' -f2,3,4 |
     sed -E 's/,year.*//g' |
     sed -E 's/code://g' |
     sed -E 's/(.*),(.*)$/\2,\1/' |
-    sed -E 's/[ ]{2,}/ /g' |
     sed -E 's/,/ /' |
+    sed -E 's/[ ]{2,}/ /g' |
     sort |
     uniq
+    
 fi
 # curl -sL https://www.handbook.unsw.edu.au/api/content/render/false/query/+unsw_psubject.implementationYear:2021%20+unsw_psubject.studyLevel:postgraduate%20+unsw_psubject.educationalArea:COMP*%20+unsw_psubject.active:1%20+unsw_psubject.studyLevelValue:pgrd%20+deleted:false%20+working:true%20+live:true/orderby/unsw_psubject.code%20asc/limit/10000/offset/0)
 # echo $(curl -sL https://www.handbook.unsw.edu.au/api/content/render/false/query/+unsw_psubject.implementationYear:2021%20+unsw_psubject.studyLevel:postgraduate%20+unsw_psubject.educationalArea:COMP*%20+unsw_psubject.active:1%20+unsw_psubject.studyLevelValue:pgrd%20+deleted:false%20+working:true%20+live:true/orderby/unsw_psubject.code%20asc/limit/10000/offset/0 | 
